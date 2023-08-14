@@ -946,7 +946,7 @@ const dico = {
 "Wilenq": "How (なんて〜)",
 "Wimb": "However (ただし)",
 "Xaide": "That (Archaic) (彼の)",
-"Xia": "(depends on position) Before a noun: That (それ/その) Before a verb, context is about past: (Acts like 〜てしまう) Before a verb, context is about near future: To come… (〜てくる)",
+"Xia": "Before a noun: That (それ/その) Before a verb, context is about past: (Acts like 〜てしまう) Before a verb, context is about near future: To come… (〜てくる)",
 "Xieti": "On that time (その時)",
 "Yiele": "Not (ことのなかった)",
 "Yien": "(Japanese passive conjugation)",
