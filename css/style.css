@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "alician";
+  src: url("../fonts/Alician-Regular.ttf");
+}
+
+@font-face {
+  font-family: "novaflat";
+  src: url("../fonts/NovaFlat-Regular.ttf");
+}
+
+.alician{
+	font-family: "alician";
+}
+
+.alician:hover{
+	font-family: georgia;
+}
+
+#translation{
+	position: fixed;
+	right: 0;
+	top: 0;
+	background-color: rgba(0,0,0,0.75);
+	font-size: 2em;
+}
+
+.found{
+	color: deeppink;
+	cursor: pointer;
+}
+
+.found:hover{
+	color: darkorange;
+}
+
+body{
+	text-align: center;
+	font-family: "novaflat",Georgia, arial;
+	background-color: #222;
+	color: ghostwhite;
+	margin: 0;
+}
+
+h1{
+	margin: 0;
+	padding: 12px;
+	background-color: #323;
+}
+
+p{
+	font-size: 1.2em;
+}
+
+.album{
+	width: 80vw;
+	text-align: center;
+	margin: auto;
+}
+
+.blue{
+	background-color: royalblue;
+}
+
+.red{
+	background-color: darkred;
+}
+
+.purple{
+	background-color: rebeccapurple;
+}
+
+.letter-box{
+	display: inline-block;
+	text-align: center;
+	background-color: #333;
+	font-size: 3em;
+	width: 110px;
+	margin: 6px;
+	user-select: none;
+	border-radius: 4px;
+	border-right: 2px solid #1A1A1A;
+	border-bottom: 1px solid #1A1A1A;
+	border-top: 1px solid #1A1A1A;
+}
+
+.return{
+	position: absolute;
+	left: 12px;
+	top: 6px;
+	font-size: 2em;
+	cursor: pointer;
+}
+
+.bubble-div{
+	background-color: #333;
+	border-radius: 12px;
+	padding: 20px;
+	width: 50vw;
+	margin: auto;
+	margin-top: 20px;
+	user-select: none;
+	cursor: pointer;
+	transition: background-color 0.25s;
+}
+
+.bubble-div:hover{
+	background-color: #444;
+}
+
+.grid{
+	padding: 2vw;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, 33%);
+	grid-template-areas:
+	'a b c';
+}
+
+.lyrics{
+	font-size: 1.4em;
+}
+
+#english{
+	font-size: 1.3em;
+}
+
+#japanese{
+	font-size: 1.2em;
+}
