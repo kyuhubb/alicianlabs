@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Search</title>
+	<link rel="stylesheet" type="text/css" href="css/style2.css">
+	<script src='script/nikolib.js'></script>
+	<script src='db/credits.js'></script>
+</head>
+<body>
+	<div>
+		<input autofocus="true" id='question' placeholder='type here...'>
+		<button onclick='run()'>Go !</button><br>
+	</div>
+	<div id='results'><p class='res'>Waiting for user input...</p></div>
+</body>
+</html>
+<script>
+let bookloaded = '0';
+let link = '';
+let credit = "";
+let all = 6;
+let text = "";
+load();
+var p = "";
+var results = document.getElementById('results');
+var i = 0;
+var values = [];
+var w = "";
+var ans = [];
+var max = 0;
+var str = [];
+var cd = "";
+var code = "";
+function load(){
+	text = "";
+		for(i=all ; i > 0 ; i--){
+			p = document.createElement('script');
+			p.src = "db/"+i+".js";
+			document.getElementsByTagName('body')[0].appendChild(p);
+	}
+}
+
+function run(){
+	var nc = 0;
+	w = document.getElementById('question').value;
+	w = w.replace('?', '');
+	question.value = w;
+	if(w != ''){
+		w = w.split('+');
+		var exist2 = true;
+		var exist = false;
+		results.innerHTML = "";
+		str = text.split(/\n/g);
+		for(i = 0 ; i <= str.length-1 ; i++){
+			exist = str[i].includes(w[0]);
+			if(w[1] == ""){
+				w[1] = undefined;	
+			}
+			if(w[1] != undefined){
+				exist2 = str[i].includes(w[1]);
+			}
+			if(str[i][0] == "§"){
+				code = str[i].substring(1);
+			}
+			if(exist && exist2){
+				var w1pos = [];
+				var w0pos = [];
+				if(w[1] != undefined){
+					var reg = new RegExp(w[0], "g");
+					var reg2 = new RegExp(w[1], "g");
+					while ((match = reg.exec(str[i])) != null) {
+					    w0pos.push(match.index);
+					}
+					while ((match = reg2.exec(str[i])) != null) {
+					    w1pos.push(match.index);
+					}
+					var w1l = w1pos.length;
+					var w0l = w0pos.length;
+					var max = w1l;
+					var l0 = 0;
+					var l1 = 0;
+					var found = [];
+					var ok = -1;
+					var dump  = true;
+					while(true){
+						if(w1pos[l1] > w0pos[l0]){
+							ok = w0pos[l0];
+							l0++;
+						}else{
+							if(ok != -1 && w0pos[l0-1] < w1pos[l1]){
+								found.push(w0pos[l0-1]);
+								found.push(w1pos[l1]);
+								l0++;
+								l1++;
+								dump = false;
+								if(l1 == max){
+									break
+								}
+							}else{
+								l1++;
+								if(l1 == max){
+									if(dump == true){
+										str[i] = '';
+									}
+									break
+								}
+								ok = w0pos[l0];
+							}
+						}
+					}
+					var rem = '';
+					var dotpos = [];
+					var reg3 = new RegExp("。", "g");
+					var reg4 = new RegExp("！", "g");
+					var reg5 = new RegExp("？", "g");
+					var reg6 = new RegExp(/\!/, "g");
+					var reg7 = new RegExp(/\?/, "g");
+					var reg8 = new RegExp("」", "g");
+					for(y=0; y < found.length/2; y++){
+						while ((match = reg3.exec(str[i])) != null){
+					    	dotpos.push(match.index);
+						}
+					}
+					for(y=0; y < found.length/2; y++){
+						while ((match = reg4.exec(str[i])) != null){
+					    	dotpos.push(match.index);
+						}
+					}
+					for(y=0; y < found.length/2; y++){
+						while ((match = reg5.exec(str[i])) != null){
+					    	dotpos.push(match.index);
+						}
+					}
+					for(y=0; y < found.length/2; y++){
+						while ((match = reg6.exec(str[i])) != null){
+					    	dotpos.push(match.index);
+						}
+					}
+					for(y=0; y < found.length/2; y++){
+						while ((match = reg7.exec(str[i])) != null){
+					    	dotpos.push(match.index);
+						}
+					}
+					for(y=0; y < found.length/2; y++){
+						while ((match = reg8.exec(str[i])) != null){
+					    	dotpos.push(match.index);
+						}
+					}
+					for(y=-1; y < found.length/2; y = y+2){
+						for(y2=0; y2 < dotpos.length; y2++){
+							//alert(found[y+1] +" "+dotpos[y2]+" "+found[y+2]);
+							if(found[y+1] < dotpos[y2] && found[y+2] > dotpos[y2]){
+								//alert('delete');
+								rem = found.splice(y+1, 2);
+								break
+							}
+						}
+					}
+					if(found == ''){
+						str[i] = '';
+					}
+					//alert(found);
+					var ncc = 0;
+					if(str[i] != ''){
+						bluew0l = w[0].length;
+						bluew1l = w[1].length;
+						var a = 'a';
+						var t = 0;
+						for(x=0; x < found.length; x++){
+							if(a == 'a'){
+								str[i] = str[i].substring(0, found[x]+t) +"<em class='em2'>"+w[0]+"</em>"+str[i].substring(found[x]+ bluew0l+t);
+								a = 'b';
+								t = t+21;
+								ncc = ncc+21;
+							}else{
+								str[i] = str[i].substring(0, found[x]+t) +"<em class='em2'>"+w[1]+"</em>"+str[i].substring(found[x] + bluew1l+t);
+								a = 'a';
+								t = t+21;
+								ncc = ncc+21;
+							}
+						}
+					}
+					nc = 25 + ncc;
+				}else{
+					var reg = new RegExp(w[0], "g");
+					var w0pos = [];
+					while ((match = reg.exec(str[i])) != null) {
+						w0pos.push(match.index);
+					}
+					nc = w0pos.length*21+25;
+				}
+				
+				if(str[i] != ''){
+
+					if(w[1] == undefined){
+						str[i] = str[i].replace(reg, "<em class='em2'>"+w[0]+"</em>");
+					}
+				
+					if(str[i][0] != "§"){
+						var send = "<p class='"+code+"'>"+str[i]+"</p>";
+						ans.push(send);
+					}
+				}
+			}
+		}
+		max = ans.length+1;
+		results.innerHTML += "<p class='res'>"+(max-1)+" match(es)</p>";
+		for (i = 0; i < max-1; ++i){
+    		values.push(i);
+		}
+		if(w[0] != ""){
+			for(i = 0; i < 100; ++i){
+				if(values != ""){
+					var n = values.splice(Math.random()*values.length,1)[0];
+					results.innerHTML += ans[n];
+					cd = document.getElementsByTagName('p')[i+1].classList;
+					cd = ""+cd;
+					cd = getC(cd);
+					document.getElementsByTagName('p')[i+1].innerHTML += "<br><span onclick='window.open(\""+link+"\")' class='cred'>"+cd+"</span>";
+				}
+			}
+		}
+		ans = [];
+		values = [];
+	}
+}
+
+document.addEventListener('keydown', (event) => {
+	var key = event.which;                
+ 	switch(key){
+  		case 13:
+   		run();
+		break
+   		}
+   	}
+);
+
+document.onclick = function(){searchSel(event)};
+document.touchstart = function(){searchSel(event)};
+
+function searchSel(){
+  if(window.getSelection){
+    strToSearch = window.getSelection().toString();
+  }
+}
+
+function goto(website){
+  strToSearch = window.getSelection().toString();
+	question.focus()
+	if(website == 'weblio'){
+  		window.open('https://www.weblio.jp/content/'+strToSearch, '_blank');	
+	}else{
+  		window.open('https://jisho.org/search/'+strToSearch+'#SGKDJ', '_blank');	
+	}
+}
+
+function waiting(){
+	countms = countms+100;
+	console.log(countms+'ms');
+	if(bookloaded == all){
+		window.clearInterval(interval);
+		console.log('songs loaded !');
+		if(search != "" && search != null){run()};
+	}
+}
+
+var countms = 0;
+var interval = setInterval(function(){waiting();}, 100);
+let search = $_GET('w');
+if(search != null && search != ""){
+	search = decodeURI(search);
+	document.getElementById('question').value = search;
+}
+</script>
