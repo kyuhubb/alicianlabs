@@ -57,12 +57,12 @@ p{
 	margin: auto;
 }
 
-.blue{
-	background-color: royalblue;
-}
-
 .red{
 	background-color: darkred;
+}
+
+.blue{
+	background-color: royalblue;
 }
 
 .purple{
@@ -116,7 +116,7 @@ p{
 }
 
 .lyrics{
-	font-size: 1.4em;
+	font-size: 1.5em;
 }
 
 #english{

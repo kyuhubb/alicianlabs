@@ -143,8 +143,9 @@ document.getElementById("english").innerHTML = english_lyrics;
 document.getElementById("japanese").innerHTML = japanese_lyrics;
 
 var words = document.getElementById('original').innerHTML;
+document.getElementById('original').innerHTML = words.replaceAll(" ", "  ");
+
 words = words.replaceAll("<br>", " ");
-words = words.replaceAll("  ", " ");
 words = words.replaceAll(".", "");
 words = words.replaceAll("!", "");
 words = words.replaceAll("?", "");
@@ -155,6 +156,8 @@ words = words.replaceAll("</span>", "");
 words = words.replaceAll("』", "");
 words = words.replaceAll("『", "");
 words = words.replaceAll('"', '');
+words = words.replaceAll('-', '');
+words = words.replaceAll("'", '');
 words = words.split(" ");
 words = words.filter((item,index) => words.indexOf(item) === index);
 

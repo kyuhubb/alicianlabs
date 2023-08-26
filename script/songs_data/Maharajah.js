@@ -9,9 +9,11 @@ original_lyrics = ` O Skaid Minelu Minelia Oh Di
 " Hal a Story Oracle " end 
  Ani Brait Door len Razzle em Carafe 
 
+
 <span class='blue'> Ah Mail Shiita end a Fete 
  ah Cate Aola Crai Lamiy end 
  Shelista Hal a Olkei Mii </span>
+
 
 『 Ay Mii end Harmiy !』
 『 a Xia Trico !』 Bllink Asta Ya 
@@ -62,12 +64,15 @@ You’re just living now, You’re the most correct one in this world</span>
 Blinking light, Unfinished History, Untouched Coffee
 “Did you wake up?” 
 
+
 <span class='purple'>Here is your night world
 Have you forgotten?</span>
+
 
 “Time to tell a fairy tale”
 An open door, A carafe that fell and broke
 Ah, it is a fairy tale which I’ve ever heard, a long long time ago…
+
 
 <span class='red'>Clad in the fate, Glorify your destiny
 You’re just living now, You’re the most correct one in this world</span>
@@ -75,6 +80,7 @@ You’re just living now, You’re the most correct one in this world</span>
 “Give me a break!That’s too much!”
 Blinking light, Unfinished History, Untouched Coffee
 “Did you wake up?” 
+
 
 <span class='blue'>Agonizing heart and Golden tears
 Run through the paleography carpet with bare feet</span>
@@ -97,8 +103,10 @@ japanese_lyrics= `天文台　天狼星　鏡像の月
 “御伽話をしよう”
 開いたままのドア落ちて割れるカラフェ
 
+
 <span class='blue'>天命を纏い　運命を謳歌せよ
 君は今　生きている　そして　世界で君が一番正しいんだ</span>
+
 
 『ちょっとまってよ　そんなのあんまりだよ!』
 明滅する電気　書きかけの歴史　置いたままのコーヒー
@@ -107,9 +115,11 @@ japanese_lyrics= `天文台　天狼星　鏡像の月
 <span class='purple'>ここは君の夜
 もう忘れてしまったかい</span>
 
+
 “御伽話をしよう”
 開いたままのドア　落として割れたカラフェ
 あぁ　それは　どこかで聞いた事のある御伽話　むかし.. むかし…
+
 
 <span class='red'>天命を纏い　運命を謳歌せよ
 君は今　生きている　そして　世界で君が一番正しいんだ</span>
@@ -138,8 +148,9 @@ document.getElementById("english").innerHTML = english_lyrics;
 document.getElementById("japanese").innerHTML = japanese_lyrics;
 
 var words = document.getElementById('original').innerHTML;
+document.getElementById('original').innerHTML = words.replaceAll(" ", "  ");
+
 words = words.replaceAll("<br>", " ");
-words = words.replaceAll("  ", " ");
 words = words.replaceAll(".", "");
 words = words.replaceAll("!", "");
 words = words.replaceAll("?", "");
@@ -150,6 +161,8 @@ words = words.replaceAll("</span>", "");
 words = words.replaceAll("』", "");
 words = words.replaceAll("『", "");
 words = words.replaceAll('"', '');
+words = words.replaceAll('-', '');
+words = words.replaceAll("'", '');
 words = words.split(" ");
 words = words.filter((item,index) => words.indexOf(item) === index);
 
