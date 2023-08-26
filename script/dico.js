@@ -470,7 +470,7 @@ const dico = {
 "Meidiep": "To give (与える)",
 "Meila": "To want (an item) (欲しい)",
 "Meisem": "Scatter (散らかる)",
-"Meit": "Head of a coin (表)",
+"Meit": "Head ofａcoin(表)",
 "Mejkl": "A great deal of (大きな)",
 "Melart": "Sorry (ごめんなさい)",
 "Melineto": "Bacteria (菌)",

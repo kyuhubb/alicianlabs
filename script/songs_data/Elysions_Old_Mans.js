@@ -121,8 +121,8 @@ document.getElementById("original").innerHTML = original_lyrics;
 document.getElementById("english").innerHTML = english_lyrics;
 document.getElementById("japanese").innerHTML = japanese_lyrics;
 
+document.getElementById('original').innerHTML = document.getElementById('original').innerHTML.replaceAll(" ", "  ");
 var words = document.getElementById('original').innerHTML;
-document.getElementById('original').innerHTML = words.replaceAll(" ", "  ");
 
 words = words.replaceAll("<br>", " ");
 words = words.replaceAll(".", "");
