@@ -12,7 +12,7 @@ original_verse =  original_lyrics.split("<br><br>");
 let result = "";
 for(i=0; i < japanese_verse.length; i++){
 	if(original_verse[i] == undefined){
-		original_verse[i] = "no lyrics found";
+		original_verse[i] = "no lyrics";
 	}
 	result += `<tr><td class='alician'>`+original_verse[i]+`</td><td class='japanese'>`+japanese_verse[i]+`</td><td class='english'>`+english_verse[i]+`</td></tr>`;
 }
