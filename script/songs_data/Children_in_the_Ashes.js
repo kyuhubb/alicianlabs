@@ -1,5 +1,5 @@
 title = "Children in the Ashes";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `I’m done
 I’m so over it
 My voice never reaches, no matter how many times I scream

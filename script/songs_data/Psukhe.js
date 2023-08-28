@@ -1,5 +1,5 @@
 title = "Psukhe";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `When our two eyelids opened
 The planet had enveloped our bodies
 Soon, we were walking as if we had all the freedom

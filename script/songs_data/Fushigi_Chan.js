@@ -1,5 +1,5 @@
 title = "Fushigi Chan";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `Worship him! The antinomic creator of all things
 With breath like a insect and arms like bones, we’ll be altar decorations
 Glorify him! The idealist who preaches paradise with a forked tongue

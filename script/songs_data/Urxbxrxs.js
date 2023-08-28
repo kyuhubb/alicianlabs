@@ -1,5 +1,5 @@
 title = "Urxbxrxs";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `Wriggling neurons deep in my splitting head
 Swimming lights ride the synapse to the next star
 Consciousness has lost its way, wandering between dimensions

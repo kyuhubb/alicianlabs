@@ -1,5 +1,5 @@
 title = "▷ NEW GAME";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `Hope scatters ruthlessly and descends as an angel
 Just like crawling on the ground, we go round and round…
 

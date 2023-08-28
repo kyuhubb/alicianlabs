@@ -1,5 +1,5 @@
 title = "HOLIC";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `Look at my brain, and I’m going to carve a formula by this knife
 Don’t hide your eyes, Burn it into your eyes, more more!
 

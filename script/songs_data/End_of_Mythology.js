@@ -1,5 +1,5 @@
 title = "End of Mythology";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `He was waiting alone at the end of a story
 It is sad
 In the end, we never got to see the rest of the story

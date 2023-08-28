@@ -1,5 +1,5 @@
 title = "Maze No.9";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `Scattered pieces of glass, dancing pieces
 Look, let’s touch their sparkle
 Moon and Sun are my friends from childhood

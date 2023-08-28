@@ -1,5 +1,5 @@
 title = "Toys";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `A small door behind the eyelids, the night with memories comes to me
 Childhood, cold wind, color of snow, broken toys
 

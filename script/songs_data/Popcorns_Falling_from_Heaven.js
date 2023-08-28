@@ -1,5 +1,5 @@
 title = "Popcorns Falling from Heaven";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `At last, fate has been swung down
 It’s the dawn of a new world
 The azure sky splits in half

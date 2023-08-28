@@ -1,5 +1,5 @@
 title = "Hypnotized";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `God tells me that as there will be no one left before long
 God tells me that I’m going to be alone again
 

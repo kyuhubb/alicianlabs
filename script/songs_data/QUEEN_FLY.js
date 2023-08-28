@@ -1,5 +1,5 @@
 title = "QUEEN FLY";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `I am a butterfly in syrup
 Today is the day when I have the queen fly eat my soul
 By the way, how many butterflies have you eaten up?

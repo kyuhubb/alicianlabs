@@ -1,5 +1,5 @@
 title = "Thirty Million Persona";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `“Oh, you poor thing!” Tears and sighs spilled over
 Cold wind, chilly night, This is a street of liars
 

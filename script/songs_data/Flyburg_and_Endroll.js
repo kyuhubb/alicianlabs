@@ -1,5 +1,5 @@
 title = "Flyburg and Endroll";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `He got stars in his eyes and sang
 “I will be the sun and protect you”
 

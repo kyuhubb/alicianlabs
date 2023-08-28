@@ -1,5 +1,5 @@
 title = "Kill My Fortune";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `Judgment is about to begin Are you ready?
 One black and one white robe in the closet
 Judgment is about to begin Are you ready?

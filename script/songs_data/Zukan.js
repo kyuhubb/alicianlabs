@@ -1,5 +1,5 @@
 title = "Zukan";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `A row of specimens in a white room
 We sleep
 

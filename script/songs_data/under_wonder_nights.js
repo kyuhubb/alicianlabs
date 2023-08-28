@@ -1,5 +1,5 @@
 title = "under wonder nights";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `Among the spinning needles
 I can’t remember the myriad voices, words
 I was in a daze after I stop crying

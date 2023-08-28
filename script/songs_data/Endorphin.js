@@ -1,5 +1,5 @@
 title = "Endorphin";
-original_lyrics = ``;
+original_lyrics = `no lyrics`;
 english_lyrics = `The disconnected brain is drowning in its own dreams
 The disconnected brain is drowning in its own dreams
 
