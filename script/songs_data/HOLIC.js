@@ -1,5 +1,5 @@
 title = "HOLIC";
-original_lyrics = `Lyrics not found yet`;
+original_lyrics = ``;
 english_lyrics = `Look at my brain, and I’m going to carve a formula by this knife
 Don’t hide your eyes, Burn it into your eyes, more more!
 
@@ -56,11 +56,4 @@ japanese_lyrics= `私の脳みそを見て　このナイフで　数式を刻�
 椅子を引きずって　歪曲したロープ
 通り抜けた先の　真っ赤なロープ`;
 
-english_lyrics = english_lyrics.replaceAll("\n", "<br>");
-japanese_lyrics = japanese_lyrics.replaceAll("\n", "<br>");
-
-document.getElementsByTagName("title")[0].innerHTML = title;
-document.getElementsByTagName("h1")[0].innerHTML = title;
-document.getElementById("original").innerHTML = original_lyrics;
-document.getElementById("english").innerHTML = japanese_lyrics;
-document.getElementById("japanese").innerHTML = english_lyrics;
+importJs("../script/process");

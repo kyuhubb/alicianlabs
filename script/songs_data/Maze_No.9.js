@@ -1,5 +1,5 @@
 title = "Maze No.9";
-original_lyrics = `Lyrics not found yet`;
+original_lyrics = ``;
 english_lyrics = `Scattered pieces of glass, dancing pieces
 Look, let’s touch their sparkle
 Moon and Sun are my friends from childhood
@@ -57,11 +57,4 @@ japanese_lyrics= `散らばったガラスの破片　踊る破片
 だからせめて　迷った時　自分くらいは　笑って赦してあげてね
 愛されなくなった心は　いつか　死んでしまうから`;
 
-english_lyrics = english_lyrics.replaceAll("\n", "<br>");
-japanese_lyrics = japanese_lyrics.replaceAll("\n", "<br>");
-
-document.getElementsByTagName("title")[0].innerHTML = title;
-document.getElementsByTagName("h1")[0].innerHTML = title;
-document.getElementById("original").innerHTML = original_lyrics;
-document.getElementById("english").innerHTML = japanese_lyrics;
-document.getElementById("japanese").innerHTML = english_lyrics;
+importJs("../script/process");

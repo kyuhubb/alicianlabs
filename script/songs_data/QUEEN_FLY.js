@@ -59,11 +59,4 @@ japanese_lyrics= `僕は蜜漬けにされた蝶
 僕は直に　君たちを吹き飛ばせる魔法使いになるからね
 直にね`;
 
-english_lyrics = english_lyrics.replaceAll("\n", "<br>");
-japanese_lyrics = japanese_lyrics.replaceAll("\n", "<br>");
-
-document.getElementsByTagName("title")[0].innerHTML = title;
-document.getElementsByTagName("h1")[0].innerHTML = title;
-document.getElementById("original").innerHTML = original_lyrics;
-document.getElementById("english").innerHTML = japanese_lyrics;
-document.getElementById("japanese").innerHTML = english_lyrics;
+importJs("../script/process");

@@ -81,11 +81,4 @@ japanese_lyrics= `ようやく　運命は振り下ろされる
 紺碧の空は　真っ二つに割れて
 やがて　天国の髄液が　天使の血潮が　降り注ぐだろう`;
 
-english_lyrics = english_lyrics.replaceAll("\n", "<br>");
-japanese_lyrics = japanese_lyrics.replaceAll("\n", "<br>");
-
-document.getElementsByTagName("title")[0].innerHTML = title;
-document.getElementsByTagName("h1")[0].innerHTML = title;
-document.getElementById("original").innerHTML = original_lyrics;
-document.getElementById("english").innerHTML = japanese_lyrics;
-document.getElementById("japanese").innerHTML = english_lyrics;
+importJs("../script/process");

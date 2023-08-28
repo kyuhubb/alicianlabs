@@ -1,5 +1,5 @@
 title = "Thirty Million Persona";
-original_lyrics = `Lyrics not found yet`;
+original_lyrics = ``;
 english_lyrics = `“Oh, you poor thing!” Tears and sighs spilled over
 Cold wind, chilly night, This is a street of liars
 
@@ -45,11 +45,4 @@ japanese_lyrics= `“ ああ、可哀そう！”　涙と吐息は零れ落ち�
 
 最期はみんな　独りでここから抜け出さなきゃいけない`;
 
-english_lyrics = english_lyrics.replaceAll("\n", "<br>");
-japanese_lyrics = japanese_lyrics.replaceAll("\n", "<br>");
-
-document.getElementsByTagName("title")[0].innerHTML = title;
-document.getElementsByTagName("h1")[0].innerHTML = title;
-document.getElementById("original").innerHTML = original_lyrics;
-document.getElementById("english").innerHTML = japanese_lyrics;
-document.getElementById("japanese").innerHTML = english_lyrics;
+importJs("../script/process");

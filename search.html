@@ -17,10 +17,11 @@
 </body>
 </html>
 <script>
+let numid = 0;
 let bookloaded = '0';
 let link = '';
 let credit = "";
-let all = 8;
+let all = 9;
 let text = "";
 load();
 var p = "";
@@ -199,7 +200,8 @@ function run(){
 					}
 				
 					if(str[i][0] != "§"){
-						var send = "<p class='"+code+"'>"+str[i]+"</p>";
+						numid++;
+						var send = "<p class='"+code+"'>"+numid+". "+str[i]+"</p>";
 						ans.push(send);
 					}
 				}
@@ -213,7 +215,7 @@ function run(){
 		if(w[0] != ""){
 			for(i = 0; i < 100; ++i){
 				if(values != ""){
-					var n = values.splice(Math.random()*values.length,1)[0];
+					var n = values.splice(0,1);
 					results.innerHTML += ans[n];
 					cd = document.getElementsByTagName('p')[i+1].classList;
 					cd = ""+cd;

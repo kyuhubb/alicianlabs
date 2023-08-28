@@ -8,12 +8,25 @@
   src: url("../fonts/NovaFlat-Regular.ttf");
 }
 
-.alician{
-	font-family: "alician";
+table{
+	text-align: center;
+	width: 90%;
+	margin: auto;
+	background: #252525;
 }
 
-.alician:hover{
-	font-family: georgia;
+table tr:nth-child(even){
+	background: #251F25;
+}
+
+.alician{
+	font-family: "alician";
+	font-size: 1.3em;
+}
+
+table .alician:hover{
+	font-family: arial;
+	font-size: 1.1em;
 }
 
 #translation{
@@ -30,13 +43,13 @@
 }
 
 .found:hover{
-	color: darkorange;
+	color: lawngreen;
 }
 
 body{
 	text-align: center;
 	font-family: "novaflat",Georgia, arial;
-	background-color: #222;
+	background-color: #151515;
 	color: ghostwhite;
 	margin: 0;
 }
@@ -55,18 +68,6 @@ p{
 	width: 80vw;
 	text-align: center;
 	margin: auto;
-}
-
-.red{
-	background-color: darkred;
-}
-
-.blue{
-	background-color: royalblue;
-}
-
-.purple{
-	background-color: rebeccapurple;
 }
 
 .letter-box{
@@ -92,7 +93,7 @@ p{
 }
 
 .bubble-div{
-	background-color: #333;
+	background-color: #252525;
 	border-radius: 12px;
 	padding: 20px;
 	width: 50vw;
@@ -104,25 +105,13 @@ p{
 }
 
 .bubble-div:hover{
-	background-color: #444;
+	background-color: #333;
 }
 
-.grid{
-	padding: 2vw;
-	display: grid;
-	grid-template-columns: repeat(auto-fit, 33%);
-	grid-template-areas:
-	'a b c';
+td{
+	width: 33%;
 }
 
 .lyrics{
-	font-size: 1.5em;
-}
-
-#english{
 	font-size: 1.3em;
-}
-
-#japanese{
-	font-size: 1.2em;
 }

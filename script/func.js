@@ -9,5 +9,5 @@ function initSong(){
 }
 
 function showtl(expression){
-	document.getElementById("translation").innerHTML = expression;
+	document.getElementById("translation").innerHTML = dico[expression];
 }

@@ -1,5 +1,5 @@
 title = "under wonder nights";
-original_lyrics = `Lyrics not found yet`;
+original_lyrics = ``;
 english_lyrics = `Among the spinning needles
 I can’t remember the myriad voices, words
 I was in a daze after I stop crying
@@ -45,11 +45,4 @@ japanese_lyrics= `廻る針の間
 
 さぁ　眠りなさい`;
 
-english_lyrics = english_lyrics.replaceAll("\n", "<br>");
-japanese_lyrics = japanese_lyrics.replaceAll("\n", "<br>");
-
-document.getElementsByTagName("title")[0].innerHTML = title;
-document.getElementsByTagName("h1")[0].innerHTML = title;
-document.getElementById("original").innerHTML = original_lyrics;
-document.getElementById("english").innerHTML = japanese_lyrics;
-document.getElementById("japanese").innerHTML = english_lyrics;
+importJs("../script/process");
