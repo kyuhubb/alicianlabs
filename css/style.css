@@ -49,8 +49,10 @@ body{
 	text-align: center;
 	font-family: "novaflat",Georgia, arial;
 	background-color: #151515;
-	background: url('../bg.png') fixed;
-	background-size: 100%;
+	background: url('../bg.png') fixed no-repeat, black;
+	background-size: 90%;
+	background-position-x: 50%;
+	background-position-y: 100%;
 	color: ghostwhite;
 	margin: 0;
 }
@@ -116,4 +118,12 @@ td{
 
 .lyrics{
 	font-size: 1.3em;
+}
+
+@media (max-width: 1000px){
+	body{
+		background-size: 125%;
+		background-position-x: 50%;
+		background-position-y: 100%;
+	}
 }
