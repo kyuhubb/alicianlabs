@@ -10,9 +10,8 @@
 
 table{
 	text-align: center;
-	width: 90%;
 	margin: auto;
-	background: #252525;
+	background: #151515;
 }
 
 table tr:nth-child(even){
@@ -50,6 +49,8 @@ body{
 	text-align: center;
 	font-family: "novaflat",Georgia, arial;
 	background-color: #151515;
+	background: url('../bg.png');
+	background-size: 100%;
 	color: ghostwhite;
 	margin: 0;
 }
@@ -73,7 +74,7 @@ p{
 .letter-box{
 	display: inline-block;
 	text-align: center;
-	background-color: #333;
+	background-color: #222;
 	font-size: 3em;
 	width: 110px;
 	margin: 6px;
@@ -93,7 +94,8 @@ p{
 }
 
 .bubble-div{
-	background-color: #252525;
+	background-color: #111;
+	opacity: 90%;
 	border-radius: 12px;
 	padding: 20px;
 	width: 50vw;
@@ -105,7 +107,7 @@ p{
 }
 
 .bubble-div:hover{
-	background-color: #333;
+	background-color: #151515;
 }
 
 td{

@@ -200,8 +200,7 @@ function run(){
 					}
 				
 					if(str[i][0] != "§"){
-						numid++;
-						var send = "<p class='"+code+"'>"+numid+". "+str[i]+"</p>";
+						var send = "<p class='"+code+"'><span class='idNum'></span>. "+str[i]+"</p>";
 						ans.push(send);
 					}
 				}
@@ -227,6 +226,9 @@ function run(){
 		ans = [];
 		values = [];
 	}
+	for(i=0; i < document.getElementsByClassName('idNum').length; i++){
+		document.getElementsByClassName('idNum')[i].innerHTML = i+1;
+	} 
 }
 
 document.addEventListener('keydown', (event) => {
