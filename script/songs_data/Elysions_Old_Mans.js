@@ -29,7 +29,7 @@ original_lyrics = ` Grend Grend Walhalla ou Grend
  Capite Capite Taz Capite Scteus 
  Sween , Lishe Senju Elie Finza 
 
- Efa Efa Efa Hierti
+ Efa Efa Efa Hierti 
  Oll Oll Oll Guit imm Selaf ? 
  Capite Capite Taz Capite Scteus 
  Sween , Lishe Senju Elie Finza `;
