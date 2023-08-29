@@ -46,8 +46,10 @@ for(x=0; x < japanese_verse.length; x++){
 	var currtext = document.getElementsByClassName('alician')[x].innerHTML;
 	for(i=0; i < words.length; i++){
 		if(dico[words[i]] != undefined){
-			currtext = currtext.replaceAll(" "+words[i]+" ", ` <span class='found' onmouseout='showtl("Translation(翻訳)")' onmouseover='showtl("`+words[i]+`")'>`+words[i]+`</span> `);
+			currtext = currtext.replaceAll(" "+words[i]+" ", ` <span class='found' onmouseout='showtl("notext")' onmouseover='showtl("`+words[i]+`")'>`+words[i]+`</span> `);
 		}
 	}
+	currtext = currtext.replaceAll("  ...", "...");
+	currtext = currtext.replaceAll("  ,", ",");
 	document.getElementsByClassName('alician')[x].innerHTML = currtext;
 }

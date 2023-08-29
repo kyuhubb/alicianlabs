@@ -1,4 +1,5 @@
 const dico = {
+"notext":"Translation(翻訳)",
 "Aasye": "To ascend (昇る)",
 "Abelu": "To begin to unwrap (ほころぶ)",
 "Acary": "Apocalypse (黙示)",
