@@ -13,22 +13,25 @@ Hiele Phim Leimy, Piisa Bai
 
 Bis iy Ilqum end Guidialm ifa She Dooomlait
 
-Colt es Dorain Ilqum end Iqsya iy Harlanoamea
+Colt es Dorain Ilqum end Ijsya iy Harlanoamea
 
 Arla Ensloadiviqls Lanskeem Arch Zyte Lipiq
 
-Fatasmoute iy Fiqnyaditt Enquif Ardand
+Fatasmoute iy Fijnyaditt Enquif Ardand
 
-"Lishn Kuen Prousia, AA Iqyur Cloud end Wedikarti yur Mill, Vidd Belzebav"
+"Lishe Kuen Prousia, AA Iqyur Cloud end Wedikarti yur Mill, Vidd Belzebav" 
 
-Xianya Viin Eiti Guadisiqlam Pontolt Miz Eliisa
-Kull Nai Prifinl Dex neu Sieis Bai
-Xianya Viin Eiti Guadisiqlam Pontolt Miz Eliisa
-Kull Nai Prifiel Dex neu Sieis Bai
+Xianya Viin Eiti Guadisijlam Poetolt Miz Eliisa
 
-Imeila Zia Qleea Verse, Shelista Vell Nai Caevie Noaflea
+Kull Nai Prifiel Dex neu Sinis Bai
 
-Dia, Imeila Zia Qleea Verse, Lend Qia iy Sar Lqll ?
+Xianya Viin Eiti Guadisijlam Poetolt Miz Eliisa
+
+Kull Nai Prifiel Dex neu Sinis Bai
+
+Imeila Zia Qleea Verse, Shelista Vell Nai Canvie Noaflea
+
+Dia, Imeila Zia Qleea Verse, Lend Xia iy Sar Lqll ?
 
 Syarfi Jeridiq iy Piala Herz
 
@@ -42,11 +45,11 @@ Veilatorietqls ou Eram end Yien Mario Sikidnoalait
 
 Xia iy Ra Yien Mario Ord Dorain Fete Lqll
 
-Zia Endaqlt Miz Magene end Kull Idial Swormin a Tigalm Craill Rin sii
+Zia Endaqlt Miz Magene end Kull Idial Swormin a Tigalm Craill Rie sii
 
-Zia Endaqlt Miz Magene end Kull Idial Swormin a Tigalm Craill Rin sii
+Zia Endaqlt Miz Magene end Kull Idial Swormin a Tigalm Craill Rie sii
 
-Rin sii
+Rie sii
 
 
 
