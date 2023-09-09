@@ -2,32 +2,32 @@ title = "Chocolate Missile";
 original_lyrics = ` Meit a Solte Minelia a Sail 
  Arsia ou Lazz a Pysietia end Vell Nai Guit 
  Missile end Cliid a Geeg 
- Vell Sctution Cloud ieb Falarle folme Arel ou Bis Ildrem 
+ Vell Sctution Cloud ieq Falarle folme Erel ou Bis Ildrem 
 
- Eida a Adie Brous a Ilis 
- Dex imm Bis Oli Aola ieb Drone Iila Vell Nai Kreis imm Lootaria Zel 
- Saray? Mii Nai Dilem Grait ou Oltia Rak 
- Ah Apiejla Dizzle Mii Uleea Razzle 
+ Eida a Edie Brous a Ilis 
+ Dex imm Bis Oli Aola ieq Drone Iila Vell Nai Kreis imm Lootaria Zel o
+ Saray? Mii Nai Dilem Graid ou Oltia Rak 
+ Ah Epkejla Dizzle Mii Uleea Razzle 
 
- Ailent Olis 
+ Eilent Olis 
  La La La Sai Lef Ziokla Elay end Dora Dilem Roof Prolen 
  Imm Nouche Len Skelat Retuel Katarles 
  Bai Hyune Tarn Oltia Note Mols Wasiim ? 
 
  Bis o Nai Hellm 
- Hor Enes end Liz imm Ziok Yiep Atuse Mii 
+ Hor Enes end Liz imm Ziok Yiep Etuse Mii 
  Yiep Seek Ra Mizy ol Ignai , Phier 
 
- Bis o Amer !
+ Bis o Emer !
  Hor Orpheus end Liz imm Ziok Yiep Torjest Mii 
  Lishe Luan Falke Alie Rowt 
 
  Bis o Nai Hellm 
- Hor Enes end Liz imm Ziok Yiep Atuse Mii 
+ Hor Enes end Liz imm Ziok Yiep Etuse Mii 
  Yiep Seek Ra Mizy ol Ignai , Phier 
 
- Bis o Amer ! 
- Hor Orpheus end Liz imm Ziok Yiep Tor6est Mii 
+ Bis o Emer ! 
+ Hor Orpheus end Liz imm Ziok Yiep Torjest Mii 
  Lishe Luan Falke Alie Rowt Saryarte `;
 english_lyrics = `Head and tail, Moon and Sun
 A reason to exist, a mission, which will not be known forever
