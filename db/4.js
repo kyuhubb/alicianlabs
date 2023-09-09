@@ -1,7 +1,7 @@
 text += `§004
 
 
- Selate In ou Lane Lar Alger ou Iila
+Selate In ou Lane Lar Alger ou Iila
 
 lootaria ou Caren Ewol Acary
 Mirya Heil Dro end Di end Tri
@@ -9,7 +9,7 @@ Mirya Heil Dro end Di end Tri
 Selate In ou Lane Lar Crai Jam Wery
 
 Lootaria ou Wiina Ewol Acary
-Mirya Hell Dro end Di end Tri
+Mirya Heil Dro end Di end Tri
 
 Circus ou Nouche Olis Loog Nouche
 Synapse ah Astola

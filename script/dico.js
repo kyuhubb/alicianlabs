@@ -299,6 +299,7 @@ const dico = {
 "Hamislay": "Good Morning (おはよう)",
 "Haol": "Hand (手)",
 "Haolm": "Palm (手のひら)",
+"Haou": "Hand (手)",
 "Harie": "Remember (思い出す)",
 "Harmiy": "Remember (思い出す)",
 "Harla": "hope (希望)",
