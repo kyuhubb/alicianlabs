@@ -1,4 +1,4 @@
-title = "Final Fantasy";
+title = "The Fatal Fantasy";
 original_lyrics = ` Brai ou Epiejla Ewol Madiendlea 
 
  Pieto Lophalas Floul a Cate Thuivili 
