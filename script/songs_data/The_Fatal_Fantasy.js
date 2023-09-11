@@ -41,31 +41,72 @@ original_lyrics = ` Brai ou Epiejla Ewol Madiendlea
  Fiolaza end ol Yien Peil Ratatouille 
 
 " Poet Nai Dist , Phier "`;
-english_lyrics = `translation coming soon...`;
-japanese_lyrics= `頭の中灰色の迷宮
+english_lyrics = `In my head, in a grey labyrinth
 
-透明な魚たちがせわしなく歩き回る
+transparent fishes walk around with difficulty
 
-長い長い階段足元に
-悪魔が絡みついて
+A long, long staircase, a devil is tangling at my feet
 
-抱えすぎた記憶が少しずつ零れ出すよ
+Too much memories start spilling out little by little
 
-行き止まり底は赤いスープの海
+Dead end, Sea with red soup at the bottom
 
-下たる水滴　王冠　デジャヴ
+Water Drops, Crown, Deja vu
 
-「さぁ沈んでみなよ　深く深く息を止めて眼を開けてここが新しい物語の始まり」
+"Well, let's all sink, hold deep,
+hold your breath, open your eyes, this is the beginning of a new story"
+
+"Though the world is so dazzling, why are you crying?"
+
+The skirt dyed in the ocean is like the color of life
+
+Look, space start birling and the sleeping circus wakes up
+
+“Though the world is so beautiful, why are you grieving? "
+
+If you welter in colorful fruits, let's sleep
+
+Bunch of flowers left there, ratatouille,
+
+“Please do not forget”
+
+"Though the world is so dazzling, why are you crying?"
+
+The skirt dyed in the ocean is like the color of life
+
+Look, space start birling and the sleeping circus wakes up
+
+“Though the world is so beautiful, why are you grieving? "
+
+If you welter in colorful fruits, let's sleep
+
+Bunch of flowers left there, ratatouille,
+
+“Please do not forget”
+`;
+japanese_lyrics= `頭の中　灰色の迷宮
+
+透明な魚たちが　せわしなく歩き回る
+
+長い長い階段　足元に悪魔が絡みついて
+
+抱えすぎた記憶が　少しずつ零れ出すよ
+
+行き止まり　底は　赤いスープの海
+
+したたる水滴　王冠　デジャヴ
+
+「さぁ　沈んでみなよ　深く深く　息を止めて　眼を開けて　ここが　新しい物語の始まり」
 
 「世界はとても眩いのに　どうして君は泣いているの？」
 
-海に染まったスカートはまるで生命の色
+海に染まったスカートは　まるで生命の色
 
-ほら　宙が廻り出して眠っていたサーカスが目を覚ます
+ほら　宙が廻り出して　眠っていたサーカスが目を覚ます
 
 「世界はとても美しいのに　どうして君は嘆いているの？」
 
-色とりどりの果実に溺れたら眠りましょう
+色とりどりの果実に溺れたら　眠りましょう
 
 置かれた花束　ラタトゥイユ
 
@@ -73,13 +114,13 @@ japanese_lyrics= `頭の中灰色の迷宮
 
 「世界はとても眩いのに　どうして君は泣いているの？」
 
-海に染まったスカートはまるで生命の色
+海に染まったスカートは　まるで生命の色
 
-ほら　宙が廻り出して眠っていたサーカスが目を覚ます
+ほら　宙が廻り出して　眠っていたサーカスが目を覚ます
 
 「世界はとても美しいのに　どうして君は嘆いているの？」
 
-色とりどりの果実に溺れたら眠りましょう
+色とりどりの果実に溺れたら　眠りましょう
 
 置かれた花束　ラタトゥイユ
 
