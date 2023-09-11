@@ -156,4 +156,3 @@ japanese_lyrics= `天文台　天狼星　鏡像の月
 それとも　もう忘れてしまったかい`;
 
 importJs("../script/process");
-document.getElementById("vplayer").src = "https://www.youtube.com/embed/NhYsFAJ2k3Y?si=EbgmLPCil2orfkO_";
