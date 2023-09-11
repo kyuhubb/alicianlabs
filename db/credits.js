@@ -119,5 +119,10 @@ function getC(credit){
 		link = "pages/song.html?q=Popcorns_Falling_from_Heaven";
 		return "Popcorns Falling from Heaven";
 		break
+
+		case '025':
+		link = "pages/song.html?q=Final_Fantasy";
+		return "Final Fantasy";
+		break
 	}
 }
