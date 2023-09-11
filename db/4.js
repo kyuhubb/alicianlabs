@@ -1,52 +1,58 @@
 text += `§004
 
 
-Selate In ou Lane Lar Alger ou Iila
+ Selate In ou Lane Lar Alger ou Iila 
 
-lootaria ou Caren Ewol Acary
-Mirya Heil Dro end Di end Tri
+ lootaria ou Caren Ewol Acary 
 
-Selate In ou Lane Lar Crai Jam Wery
+ Mirya Heil Dro end Di end Tri 
 
-Lootaria ou Wiina Ewol Acary
-Mirya Heil Dro end Di end Tri
+ Selate In ou Lane Lar Crai Jam Wery 
 
-Circus ou Nouche Olis Loog Nouche
-Synapse ah Astola
+ Lootaria ou Wiina Ewol Acary 
 
-end Ranya Advelses Stei ou Monodrama
-Finz Ranya
+ Mirya Heil Dro end Di end Tri 
 
-Crai Ran Alan
-end Karna Mii Dist end Dist Mii
+ Circus ou Nouche Olis Loog Nouche 
+ Synapse ah Astola 
 
-a Falke Luan !
-a Gout Mii Disrait oh Chail ou Eist
+ end Ranya Advelses Stei ou Monodrama 
+ Finz Ranya 
 
-a Circus ou Drone
-Ley end Mii Bis Dist end Dist Mii
+ Crai Ran Alan 
+ end Karna Mii Dist end Dist Mii 
 
-a Falke Luan !
-Brait Allss ou Xia Piero
-Haou Crai La Crai
+ a Falke Luan !
 
-es hai di es towai di es crai ni es grei ni lau
-es towai di es crai ni es grei ni lau
-es towai di es crai ni es grei ni lau
-es crai ni es grei ni lau
+ a Gout Mii Disrait oh Chail ou Eist 
 
-Ranya Crai Ran Alan
-end Karna Mii Dist end Dist Mii
+ a Circus ou Drone 
+ Ley end Mii Bis Dist end Dist Mii 
 
-a Falke Luan !
-a Gout Mii Disrait oh Chail ou Eist
+ a Falke Luan !
 
-a Circus ou Drone
-Ley end Mii Bis Dist end Dist Mii
+ Brait Allss ou Xia Piero 
+ Haou Crai La Crai 
 
-a Falke Luan !
-Brait Allss ou Xia Piero
-Haou Crai La Crai 
+ es hai di es towai di es crai ni es grei ni lau 
+ es towai di es crai ni es grei ni lau 
+ es towai di es crai ni es grei ni lau 
+ es crai ni es grei ni lau 
+
+ Ranya Crai Ran Alan 
+ end Karna Mii Dist end Dist Mii 
+
+ a Falke Luan !
+
+ a Gout Mii Disrait oh Chail ou Eist 
+
+ a Circus ou Drone 
+ Ley end Mii Bis Dist end Dist Mii 
+
+ a Falke Luan !
+
+ Brait Allss ou Xia Piero 
+ Haou Crai La Crai 
 
 
 

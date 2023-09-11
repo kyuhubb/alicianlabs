@@ -1,30 +1,35 @@
 text += `§010
 
 
-Speixam end Gleetz imm Arla Pazz
-Mill Sween
+ Mill Sween 
 
-Ween ou Okititil a Oli end Ley Nai
-Idem Arsa Yulleia
+ Ween ou Okititil a Oli end Ley Nai 
 
-Noa Fimeles Noa Melineto Pazz
-Mill Sween
+ Idem Arsa Yulleia 
 
-Zeit Poetolt Peil Imiylt Swinia
-Lishe Poet Rook
+ Noa Fimeles Noa Melineto Pazz 
 
-Via ou Loast Elza end Apeilf Yullk
-Aisia Mia Koll Solfe Ley
+ Mill Sween 
 
-Mill Yien Laidiik Mage imm Ixche ou Sole
-Endjulf Ene Woli Lootaria
+ Zeit Poetolt Peil Imiylt Swinia 
 
-Yien Tleiket Nielatelea
-Voi Yien Holo Mane Ra Mill Harmey osa Zel Note
+ Lishe Poet Rook 
 
-Mane Mane Mane Mane
-Mane Mane Mane Mane
-Mane Mane Mane...
+ Via ou Loast Elza end Apeilf Yullk 
+
+ Aisia Mia Koll Solfe Ley 
+
+ Mill Yien Laidiik Mage imm Ixche ou Sole 
+
+ Endjulf Ene Woli Lootaria 
+
+ Yien Tleiket Nielatelea 
+
+ Voi Yien Holo Mane Ra Mill Harmey osa Zel Note 
+
+ Mane Mane Mane Mane 
+ Mane Mane Mane Mane 
+ Mane Mane Mane ... 
 
 
 
