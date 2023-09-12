@@ -124,5 +124,15 @@ function getC(credit){
 		link = "pages/song.html?q=Final_Fantasy";
 		return "Final Fantasy";
 		break
+
+		case '026':
+		link = "pages/song.html?q=Give_Me_a_Nightmare";
+		return "Give Me a Nightmare";
+		break
+
+		case '027':
+		link = "pages/song.html?q=Alice_Music";
+		return "Alice Music";
+		break
 	}
 }
