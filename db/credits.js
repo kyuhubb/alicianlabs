@@ -134,5 +134,20 @@ function getC(credit){
 		link = "pages/song.html?q=Alice_Music";
 		return "Alice Music";
 		break
+
+		case '028':
+		link = "pages/song.html?q=wonder_world_sketch";
+		return "wonder world sketch";
+		break
+
+		case '029':
+		link = "pages/song.html?q=ALQ";
+		return "ALQ";
+		break
+
+		case '030':
+		link = "pages/song.html?q=a_Witch_of_Ice_Cage";
+		return "a Witch of Ice Cage";
+		break
 	}
 }
