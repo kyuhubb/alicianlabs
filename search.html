@@ -45,7 +45,7 @@ function load(){
 
 function run(){
 	var nc = 0;
-	w = document.getElementById('question').value;
+	w = document.getElementById('question').value.toLowerCase();
 	w = w.replace('?', '');
 	question.value = w;
 	if(w != ''){
@@ -53,6 +53,7 @@ function run(){
 		var exist2 = true;
 		var exist = false;
 		results.innerHTML = "";
+		text = text.toLowerCase();
 		str = text.split(/\n/g);
 		for(i = 0 ; i <= str.length-1 ; i++){
 			exist = str[i].includes(w[0]);

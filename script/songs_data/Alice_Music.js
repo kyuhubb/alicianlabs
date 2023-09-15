@@ -48,7 +48,7 @@ original_lyrics = ` Hamilslay !
 “ Alice Alice , Leste Alice ”
 
  Crai Shelista `;
-english_lyrics = ` Good morning !
+english_lyrics = `Good morning !
 
 Change my cloth, deep breathing, then open the door
 

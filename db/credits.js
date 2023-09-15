@@ -61,8 +61,8 @@ function getC(credit){
 		break
 
 		case '013':
-		link = "pages/song.html?q=End_of_Mythology";
-		return "End of Mythology";
+		link = "pages/song.html?q=";
+		return "";
 		break
 
 		case '014':
@@ -121,8 +121,8 @@ function getC(credit){
 		break
 
 		case '025':
-		link = "pages/song.html?q=Final_Fantasy";
-		return "Final Fantasy";
+		link = "pages/song.html?q=The_Final_Fantasy";
+		return "The Final Fantasy";
 		break
 
 		case '026':
