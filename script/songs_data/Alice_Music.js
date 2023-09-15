@@ -48,7 +48,57 @@ original_lyrics = ` Hamilslay !
 “ Alice Alice , Leste Alice ”
 
  Crai Shelista `;
-english_lyrics = ``;
+english_lyrics = ` Good morning !
+
+Change my cloth, deep breathing, then open the door
+
+Beginning bell just rings
+
+Reminiscing, Prospection,
+
+All my feelings slept on my hand
+
+By magical words, leave on each trip
+Clap our hands
+
+Turning the hands of clock, The sun dancing, 
+The moon singing, and the thoughts born
+
+Then long tale starts again..
+
+Everywhere you can go
+
+Until you find quite end of the world
+
+"Alice, Alice, Alice"
+
+Go over there
+
+Clap our hands
+
+Turning the hands of clock, The sun dancing,
+
+The moon singing, and the thoughts born
+
+Then long long tale starts again..
+
+Everywhere you can go
+
+Until you find quite end of the world
+
+Go through time to time
+
+"Alice, Alice, Alice"
+
+Everywhere you can go
+
+Until you find quite end of the world
+
+Go through time to time
+
+"Alice, Alice, Alice"
+
+To your world`;
 japanese_lyrics= `おはよう！
 
 服を着替えて深呼吸をして扉を開けたら

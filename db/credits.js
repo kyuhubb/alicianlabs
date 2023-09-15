@@ -149,5 +149,35 @@ function getC(credit){
 		link = "pages/song.html?q=a_Witch_of_Ice_Cage";
 		return "a Witch of Ice Cage";
 		break
+
+		case '031':
+		link = "pages/song.html?q=Friend";
+		return "Ｆｒｉｅｎｄ";
+		break
+
+		case '032':
+		link = "pages/song.html?q=Lost_My_Savepoint";
+		return "Lost My Savepoint";
+		break
+
+		case '033':
+		link = "pages/song.html?q=the_white_land";
+		return "the white land";
+		break
+
+		case '034':
+		link = "pages/song.html?q=Acquazzone";
+		return "Acquazzone";
+		break
+
+		case '035':
+		link = "pages/song.html?q=Frozen_Tree";
+		return "Frozen Tree";
+		break
+
+		case '036':
+		link = "pages/song.html?q=snooze_and_snooze";
+		return "Sno(_ _)oze & Sn(o_o)ze";
+		break
 	}
 }

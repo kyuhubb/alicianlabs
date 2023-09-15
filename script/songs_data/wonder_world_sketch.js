@@ -27,7 +27,42 @@ original_lyrics = ` Olis Leste Stea Shelista Ilis Leste Stea Xia Scape ah
  ah Talis Mii Alista Shelista end Heart ou Brai Mii Inay 
 
  Leste Luan a Crai Sar Mii Inay Leste Luan `;
-english_lyrics = ``;
+english_lyrics = `Let's draw prismatic world
+Let's paint with all colors of rainbow
+
+Let's open up our unlimited sea route
+Just grab a bag and let's go beyond the star
+
+Run, Dive and Create
+
+Our endless dreamland here
+
+The view I sought and chased for a long time
+That i could never find
+
+It might be inside me from way back
+
+The world I dreamed for a long time
+That is waiting in my heart.
+
+Let's go with me
+With me...
+
+Hoist and hold up a frayed flag flowed in ages here
+Draw the sea route
+
+Breathe deep, and let's go!
+
+The future I sought and chased for a long time
+That i could never find
+
+It might be inside me from way back
+
+The world I dreamed for a long time
+That is waiting in my heart.
+
+Let's go with me
+With me...`;
 japanese_lyrics= `あふれる世界を描こう　七色の繪の具で描こう
 
 無限の航路を描こう　カバンひとつで星の彼方まで
