@@ -179,5 +179,10 @@ function getC(credit){
 		link = "pages/song.html?q=snooze_and_snooze";
 		return "Sno(_ _)oze & Sn(o_o)ze";
 		break
+
+		case '037':
+		link = "pages/song.html?q=O";
+		return "𝕆";
+		break
 	}
 }
