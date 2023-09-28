@@ -3,7 +3,7 @@ original_lyrics = ` Mii Nai Dilem Harla Bai Finz Taz Joul Elay
 
  Imeila Tiag Myahalke , Vell Ignai Deet 
 
- Xia Nai Arth Amblu , Foul Vell Kulu Nai Rait
+ Xia Nai Arth Amblu , Foul Vell Kulu Nai Rait 
 
  Bisoli iy Ail ou Myte Shelista 
 
