@@ -1,7 +1,7 @@
 title = "▷ NEW GAME";
 original_lyrics = ` Hols Yien Weilla Kelasiad lait en Tikk a Feid ieq Tvulei ou Syeilla 
 
-Iequim Lef Fea Edal, Mill Floul end Floul ...
+Iequim Lef Fea Edal , Mill Floul end Floul ...
 
 " Bis Mazy iy Oli end Ley Nai Laiz Nai Aihel lid Naits folme Bisoli "
 

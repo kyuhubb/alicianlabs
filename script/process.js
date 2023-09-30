@@ -11,9 +11,6 @@ japanese_verse =  japanese_lyrics.split("<br><br>");
 original_verse =  original_lyrics.split("<br><br>");
 let result = "";
 for(i=0; i < japanese_verse.length; i++){
-	if(original_verse[i] == undefined){
-		original_verse[i] = "no lyrics";
-	}
 	result += `<tr><td class='alician'>`+original_verse[i]+`</td><td class='japanese'>`+japanese_verse[i]+`</td><td class='english'>`+english_verse[i]+`</td></tr>`;
 }
 
@@ -27,26 +24,13 @@ for(x=0; x < japanese_verse.length; x++){
 	document.getElementsByClassName('alician')[x].innerHTML = document.getElementsByClassName('alician')[x].innerHTML.replaceAll(" ", "  ");
 	words = document.getElementsByClassName('alician')[x].innerHTML;
 
-	words = words.replaceAll("<br>", " ");
-	words = words.replaceAll(".", "");
-	words = words.replaceAll("!", "");
-	words = words.replaceAll("?", "");
-	words = words.replaceAll('<span class="red">', '');
-	words = words.replaceAll('<span class="blue">', '');
-	words = words.replaceAll('<span class="purple">', '');
-	words = words.replaceAll("</span>", "");
-	words = words.replaceAll("』", "");
-	words = words.replaceAll("『", "");
-	words = words.replaceAll('"', '');
-	words = words.replaceAll('-', '');
-	words = words.replaceAll("'", '');
 	words = words.split(" ");
 	words = words.filter((item,index) => words.indexOf(item) === index);
 
 	var currtext = document.getElementsByClassName('alician')[x].innerHTML;
 	for(i=0; i < words.length; i++){
-		if(dico[words[i]] != undefined){
-			currtext = currtext.replaceAll(" "+words[i]+" ", ` <span class='found' onmouseout='showtl("notext")' onmouseover='showtl("`+words[i]+`")'>`+words[i]+`</span> `);
+		if(dico[words[i].toLowerCase()] != undefined){
+			currtext = currtext.replaceAll(" "+words[i]+" ", ` <span class='found' onmouseout='showtl("notext")' onmouseover='showtl("`+words[i].toLowerCase()+`")'>`+words[i]+`</span> `);
 		}
 	}
 	currtext = currtext.replaceAll("  ...", "...");
