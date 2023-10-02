@@ -314,7 +314,7 @@ let dico = {
 "hait": "liberty/Freedom (自由)",
 "haart": "to nod (頷く)",
 "hal": "talk (話す)",
-"hamislay": "good Morning (おはよう)",
+"hamilslay": "good Morning (おはよう)",
 "haol": "hand (手)",
 "haolm": "palm (手のひら)",
 "haou": "hand (手)",

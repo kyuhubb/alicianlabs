@@ -5,7 +5,7 @@ original_lyrics = ` Hamilslay !
 
  Laiscall ou Frait miz ei end 
 
- Ail Graid Skaid end Anyalhel 
+ Ail Graid Skaid end Anyahel 
 
  Karna mil Fin a Sween 
 
