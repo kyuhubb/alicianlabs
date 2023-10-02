@@ -29,7 +29,7 @@ original_lyrics = ` O Skaid Minelu Minelia Oh Di
  Leste " Hal a Story Oracle " end 
  Ani Brait Door end Razzle Carafe 
 
- Ah Mii o Xia Hellm Story Foul
+ Ah Mii o Xia Hellm Story Foul 
  Talis end ah Talis ..
 
  Ah Mail Shiita end a Fete 

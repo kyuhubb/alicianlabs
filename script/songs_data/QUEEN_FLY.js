@@ -13,7 +13,7 @@ original_lyrics = ` Zia iy Lilp Dangli Sloa
 
  Colt es Dorain Ilqum end Ijsya iy Harlanoamea 
 
- Arla Ensloadiviqls Lanskeem Arch Zyte Lipiq 
+ Arla Ensloadivi qls Lanskeem Arch Zyte Lipiq 
 
  Fatasmoute iy Fijnyaditt Enquif Ardand 
 
@@ -39,7 +39,7 @@ original_lyrics = ` Zia iy Lilp Dangli Sloa
 
  Ied Piisika a Geeg imm Eiti a Xia Eiti Shelista osa 
 
- Veilatorietqls ou Eram end Yien Mario Sikidnoalait 
+ Veilatoriet qls ou Eram end Yien Mario Sikidnoalait 
 
  Xia iy Ra Yien Mario Ord Dorain Fete Lqll 
 
