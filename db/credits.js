@@ -61,8 +61,8 @@ function getC(credit){
 		break
 
 		case '013':
-		link = "pages/song.html?q=";
-		return "";
+		link = "pages/song.html?q=Forbidden_Wonderlands";
+		return "Forbidden_Wonderlands";
 		break
 
 		case '014':
@@ -183,6 +183,16 @@ function getC(credit){
 		case '037':
 		link = "pages/song.html?q=O";
 		return "𝕆";
+		break
+
+		case '038':
+		link = "pages/song.html?q=Teardrop_del_Rey";
+		return "Teardrop del Rey";
+		break
+
+		case '039':
+		link = "pages/song.html?q=Fehlt";
+		return "Fehlt";
 		break
 	}
 }

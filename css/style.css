@@ -19,6 +19,10 @@ table tr:nth-child(even){
 	background: #251F25;
 }
 
+#dicoEntries{
+	font-size: 1.4em;
+}
+
 .alician{
 	font-family: "alician";
 	font-size: 1.2em;
