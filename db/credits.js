@@ -195,9 +195,14 @@ function getC(credit){
 		return "Fehlt";
 		break
 
-	case '040':
+		case '040':
 		link = "pages/song.html?q=Bad_end_syndrome";
 		return "Bad end syndrome";
+		break
+
+		case '041':
+		link = "pages/song.html?q=Akasha_no_hibun";
+		return "Akasha no hibun";
 		break
 	}
 }
