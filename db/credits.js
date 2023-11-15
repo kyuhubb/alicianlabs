@@ -194,5 +194,10 @@ function getC(credit){
 		link = "pages/song.html?q=Fehlt";
 		return "Fehlt";
 		break
+
+	case '040':
+		link = "pages/song.html?q=Bad_end_syndrome";
+		return "Bad end syndrome";
+		break
 	}
 }
