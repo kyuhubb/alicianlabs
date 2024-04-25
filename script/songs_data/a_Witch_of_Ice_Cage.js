@@ -31,7 +31,37 @@ original_lyrics = ` End Dorain .. Ah Dorain ..
  Twiik ani Laila ani Hyuz ah Lanai 
 
  Gout Mii Loog Bis end `;
-english_lyrics = ``;
+english_lyrics = `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`;
 japanese_lyrics= `“暗い..暗い...”
 
 千年の氷の格子は私に纏わり付いて

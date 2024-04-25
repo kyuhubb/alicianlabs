@@ -31,7 +31,7 @@ original_lyrics = ` Yiela Egdrea ! Mei Wiziliq Arlistielim ou Eadalam
 
  Olizes Phim Stica Herches , Nai Hols a Arth weil Bistie Oli Bai 
 
- Fotzob Miistiel Luan a Yien Hiip a Tigalm
+ Fotzob Miistiel Luan a Yien Hiip a Tigalm 
 
  Yiela Egdrea ! Mei Wiziliq Arlistielim ou Eadalam 
 

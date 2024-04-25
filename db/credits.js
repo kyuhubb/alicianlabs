@@ -229,5 +229,10 @@ function getC(credit){
 		link = "pages/song.html?q=killed_by_angel";
 		return "killed by angel";
 		break
+
+		case '047':
+		link = "pages/song.html?q=Doppelgängers";
+		return "Doppelgängers";
+		break
 	}
 }

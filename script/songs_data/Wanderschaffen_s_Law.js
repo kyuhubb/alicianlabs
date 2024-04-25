@@ -59,7 +59,63 @@ original_lyrics = ` Lackalatia Lackalatia
  Sween Lef Frey Olis 
 
  Sween Lef Frey Olis `;
-english_lyrics = ``;
+english_lyrics = `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`;
 japanese_lyrics= `おまじない　おまじない
 
 私は迷子　助けてください

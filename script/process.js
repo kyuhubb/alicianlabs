@@ -9,6 +9,9 @@ let original_verse = [];
 english_verse =  english_lyrics.split("<br><br>");
 japanese_verse =  japanese_lyrics.split("<br><br>");
 original_verse =  original_lyrics.split("<br><br>");
+
+
+
 let result = "";
 for(i=0; i < japanese_verse.length; i++){
 	result += `<tr><td class='alician'>`+original_verse[i]+`</td><td class='japanese'>`+japanese_verse[i]+`</td><td class='english'>`+english_verse[i]+`</td></tr>`;
@@ -35,5 +38,6 @@ for(x=0; x < japanese_verse.length; x++){
 	}
 	currtext = currtext.replaceAll("  ...", "...");
 	currtext = currtext.replaceAll("  ,", ",");
+	currtext = currtext.replaceAll("  .", ".");
 	document.getElementsByClassName('alician')[x].innerHTML = currtext;
 }

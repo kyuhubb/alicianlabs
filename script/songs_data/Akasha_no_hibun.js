@@ -24,7 +24,31 @@ original_lyrics = ` Haol end Klattle , Verry a Colls a Kampiela end ol Razzle
  a Protia end Elie Taz Aisia Finz 
 
 “ Phier Poet nai Dist Lootaria ”`;
-english_lyrics = ``;
+english_lyrics = `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`;
 japanese_lyrics= `繋いだ手　言葉　体温　壊れた羅針盤
 
 太陽とはぐれてしまった日

@@ -47,7 +47,45 @@ original_lyrics = ` Ran Harmiy Viazulu a Harmiy Zel
 
  Mii Cate Elie Skie Finient 
  Mii Cate Elie Skie Finient `;
-english_lyrics = ``;
+english_lyrics = `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`;
 japanese_lyrics= `目が覚めた旅人は　何を思う
 
 長い道が何処までも　果てしなく　果てしなく

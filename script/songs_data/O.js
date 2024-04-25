@@ -17,9 +17,9 @@ original_lyrics = ` Hyerisq Elfalasia
 
  Endyd Nai Kept Apnesia Apnesia Poutie noa Ail Finz 
 
- Elize Bis iy Nai Feike Trias , Poet Nai Hendikki sii
+ Elize Bis iy Nai Feike Trias , Poet Nai Hendikki sii 
 
- Ginmi Elize Oltia Flea iy Bedig , Lishe Nache Saryarte
+ Ginmi Elize Oltia Flea iy Bedig , Lishe Nache Saryarte 
 
  Poetolt Nai Olte Shiita ou Lazz weig sip 
 
@@ -37,7 +37,7 @@ original_lyrics = ` Hyerisq Elfalasia
 
  Fimoa Fas Tiisa Olis Vins 
 
- Poutie Albel Bisoli , Crai Vell Idem Pils Wei
+ Poutie Albel Bisoli , Crai Vell Idem Pils Wei 
 
  Wasiim Bektit Zia ? Queit Olistea Quand lar Crai 
 
