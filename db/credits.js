@@ -204,5 +204,10 @@ function getC(credit){
 		link = "pages/song.html?q=Akasha_no_hibun";
 		return "Akasha no hibun";
 		break
+
+		case '042':
+		link = "pages/song.html?q=i_am_always_wrong";
+		return "i am always wrong";
+		break
 	}
 }
