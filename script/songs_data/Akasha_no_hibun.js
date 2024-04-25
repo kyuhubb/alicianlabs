@@ -5,9 +5,9 @@ original_lyrics = ` Haol end Klattle , Verry a Colls a Kampiela end ol Razzle
 
  end Loog end Loog Via ol Frait 
 
-" Foly , Mii Harmiy Xia o Nai Loqcka Opl ! Ticca Quente Elie Akasya "
+“ Foly , Mii Harmiy Xia o Nai Loqcka Opl ! Ticca Quente Elie Akasya ”
 
-" Lishe Viin Laqqarte Crai ol Pillusi Saryarte "
+“ Lishe Viin Laqqarte Crai ol Pillusi Saryarte ”
 
  Olim Millant Ark Sphiep oh Farla Pllia Stirant 
 
@@ -23,7 +23,7 @@ original_lyrics = ` Haol end Klattle , Verry a Colls a Kampiela end ol Razzle
 
  a Protia end Elie Taz Aisia Finz 
 
-" Phier Poet nai Dist Lootaria "`;
+“ Phier Poet nai Dist Lootaria ”`;
 english_lyrics = ``;
 japanese_lyrics= `繋いだ手　言葉　体温　壊れた羅針盤
 
@@ -31,9 +31,9 @@ japanese_lyrics= `繋いだ手　言葉　体温　壊れた羅針盤
 
 それは　長い　長い　旅が始まった日
 
-"大丈夫、そう遠くないはずだよ！　アーカーシャまでもうちょっと"
+“大丈夫、そう遠くないはずだよ！　アーカーシャまでもうちょっと"
 
-"君がなくしてしまった宝物を　一緒に探そう"
+“君がなくしてしまった宝物を　一緒に探そう”
 
 幾憶の天球はただ　目の前に　広がっていた
 
@@ -49,6 +49,6 @@ japanese_lyrics= `繋いだ手　言葉　体温　壊れた羅針盤
 
 約束、感覚の果てるまで
 
-"お願い　ずっと忘れないでね"`;
+“お願い　ずっと忘れないでね”`;
 
 importJs("../script/process");

@@ -209,5 +209,25 @@ function getC(credit){
 		link = "pages/song.html?q=i_am_always_wrong";
 		return "i am always wrong";
 		break
+
+		case '043':
+		link = "pages/song.html?q=life_in_a_plastic_bag";
+		return "life in a plastic bag";
+		break
+
+		case '044':
+		link = "pages/song.html?q=Wanderers";
+		return "Wanderers";
+		break
+
+		case '045':
+		link = "pages/song.html?q=Wanderschaffen_s_Law";
+		return "Wanderschaffen's Law";
+		break
+
+		case '046':
+		link = "pages/song.html?q=killed_by_angel";
+		return "killed by angel";
+		break
 	}
 }

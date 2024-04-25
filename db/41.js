@@ -1,31 +1,31 @@
 text += `§041
 
 
- Haol end Klattle , Verry a Colls a Kampiela end ol Razzle 
+Haol end Klattle, Verry a Colls a Kampiela end ol Razzle 
 
- Yutul Mii Joul imisier folme Sail 
+Yutul Mii Joul imisier folme Sail 
 
- end Loog end Loog Via ol Frait 
+end Loog end Loog Via ol Frait 
 
-" Foly , Mii Harmiy Xia o Nai Loqcka Opl ! Ticca Quente Elie Akasya "
+“Foly, Mii Harmiy Xia o Nai Loqcka Opl ! Ticca Quente Elie Akasya”
 
-" Lishe Viin Laqqarte Crai ol Pillusi Saryarte "
+“Lishe Viin Laqqarte Crai ol Pillusi Saryarte”
 
- Olim Millant Ark Sphiep oh Farla Pllia Stirant 
+Olim Millant Ark Sphiep oh Farla Pllia Stirant 
 
- Finz Oli ou Graid , Piala Ween 
+Finz Oli ou Graid, Piala Ween 
 
- Gout Shelista Baly Arth Diiza Crai 
+Gout Shelista Baly Arth Diiza Crai 
 
- Foas end Yien Garve Xia o ivata end Kulu nai Rorm Chronicle Leim o nai 
+Foas end Yien Garve Xia o ivata end Kulu nai Rorm Chronicle Leim o nai 
 
- Minelia ou Trane , Spitia , Poet nai Olte 
+Minelia ou Trane, Spitia, Poet nai Olte 
 
- Hiele Story Baly Aihel Diiza Crai 
+Hiele Story Baly Aihel Diiza Crai 
 
- a Protia end Elie Taz Aisia Finz 
+a Protia end Elie Taz Aisia Finz 
 
-" Phier Poet nai Dist Lootaria 
+“Phier Poet nai Dist Lootaria”
 
 
 
@@ -35,9 +35,9 @@ text += `§041
 
 それは　長い　長い　旅が始まった日
 
-"大丈夫、そう遠くないはずだよ！　アーカーシャまでもうちょっと"
+“大丈夫、そう遠くないはずだよ！　アーカーシャまでもうちょっと”
 
-"君がなくしてしまった宝物を　一緒に探そう"
+“君がなくしてしまった宝物を　一緒に探そう”
 
 幾憶の天球はただ　目の前に　広がっていた
 
@@ -53,7 +53,7 @@ text += `§041
 
 約束、感覚の果てるまで
 
-"お願い　ずっと忘れないでね"
+“お願い　ずっと忘れないでね”
 
 
 
