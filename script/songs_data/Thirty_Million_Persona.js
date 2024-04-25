@@ -25,7 +25,7 @@ original_lyrics = `“ ah Phily !” Trane a Piino ol Eala
 
  Mii Plau Xia Verry end Mill o Jueid Olis 
 
- Quim Ail ou Ene Yien Holo end Dist Poul ail
+ Quim Ail ou Ene Yien Holo end Dist Poul ail 
 
  Bis Nouche o osa Iequim Lef Kopiita Tordu Eist Naits o Nai Zel Note 
 
