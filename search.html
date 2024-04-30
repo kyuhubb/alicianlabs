@@ -278,4 +278,6 @@ if(search != null && search != ""){
 	search = decodeURI(search);
 	document.getElementById('question').value = search;
 }
+
+document.getElementById("question").addEventListener("input", (event) => run());
 </script>
