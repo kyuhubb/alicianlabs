@@ -234,5 +234,10 @@ function getC(credit){
 		link = "pages/song.html?q=Doppelgängers";
 		return "Doppelgängers";
 		break
+
+		case '048':
+		link = "pages/song.html?q=Kuusou_modernism";
+		return "Kuusou modernism";
+		break
 	}
 }
