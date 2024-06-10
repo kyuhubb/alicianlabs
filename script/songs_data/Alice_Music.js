@@ -41,7 +41,7 @@ original_lyrics = ` Hamilslay !
 
  end a Nout Mii Ail Scape 
 
- Farley Fraitalia Rainya Mii Elie 
+ Farley Fraitalia Rainya Mii Elie  
 
  End Oulayz Termz Nout Skie Leste 
 
@@ -70,6 +70,8 @@ Everywhere you can go
 
 Until you find quite end of the world
 
+Go through time to time
+
 "Alice, Alice, Alice"
 
 Go over there
@@ -91,8 +93,6 @@ Go through time to time
 "Alice, Alice, Alice"
 
 Everywhere you can go
-
-Until you find quite end of the world
 
 Go through time to time
 
