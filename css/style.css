@@ -53,13 +53,16 @@ table .alician:hover{
 body{
 	text-align: center;
 	font-family: "novaflat",Georgia, arial;
-	background-color: #151515;
+	color: ghostwhite;
+	margin: 0;
+	background-color:  #151515;
+}
+
+.wallpaper{
 	background: url('../bg.png') fixed no-repeat, black;
 	background-size: 90%;
 	background-position-x: 50%;
 	background-position-y: 100%;
-	color: ghostwhite;
-	margin: 0;
 }
 
 h1{
@@ -117,8 +120,8 @@ p{
 	background-color: #151515;
 }
 
-td{
-	width: 33%;
+th, td{
+	width: 20%;
 }
 
 .lyrics{
