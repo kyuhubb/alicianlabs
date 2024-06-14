@@ -1,5 +1,5 @@
 title = "the white land";
-original_lyrics = ` Whiil Sarga end Whill a Peak 
+original_lyrics = ` Whiil Sarga end Whiil a Peak 
 
  Zel Nai Aihel end Zel Aihel 
 
@@ -25,7 +25,7 @@ original_lyrics = ` Whiil Sarga end Whill a Peak
 
  Ail end Ail Bell Mii Nai Dist Aola end ...
 
- ah Whiil Sarga end Whill a Peak 
+ ah Whiil Sarga end Whiil a Peak 
 
  Zel Nai Aihel end Zel Aihel 
 
