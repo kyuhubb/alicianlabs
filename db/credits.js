@@ -239,5 +239,10 @@ function getC(credit){
 		link = "pages/song.html?q=Kuusou_modernism";
 		return "Kuusou modernism";
 		break
+
+		case '049':
+		link = "pages/song.html?q=The_eve_of_epokhe";
+		return "The eve of epokhe";
+		break
 	}
 }
