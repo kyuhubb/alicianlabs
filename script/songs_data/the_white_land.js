@@ -223,3 +223,4 @@ japanese_lyrics= `白色天空 白色鞋履
 `;
 
 importJs("../script/process");
+chinese = true;

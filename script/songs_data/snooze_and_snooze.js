@@ -164,3 +164,4 @@ japanese_lyrics= `今天的故事是什么样？
 冒险…`;
 
 importJs("../script/process");
+chinese = true;

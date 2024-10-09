@@ -221,3 +221,4 @@ japanese_lyrics= `
 `;
 
 importJs("../script/process");
+chinese = true;

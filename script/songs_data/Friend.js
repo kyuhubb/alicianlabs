@@ -148,3 +148,4 @@ japanese_lyrics= `难为你忍耐了这么久。
 朋友。`;
 
 importJs("../script/process");
+chinese = true;

@@ -13,6 +13,12 @@ original_verse =  original_lyrics.split("<br><br>");
 
 
 let result = "";
+if(chinese){
+	result += `<tr><th>Alician</th><th>Chinese</th><th>English</th><tr>`
+}else{
+	result += `<tr><th>Alician</th><th>Japanese</th><th>English</th><tr>`
+}
+
 for(i=0; i < japanese_verse.length; i++){
 	result += `<tr><td class='alician'>`+original_verse[i]+`</td><td class='japanese'>`+japanese_verse[i]+`</td><td class='english'>`+english_verse[i]+`</td></tr>`;
 }
