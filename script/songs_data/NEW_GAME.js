@@ -7,11 +7,11 @@ Iequim Lef Fea Edal , Mill Floul end Floul ...
 
 " Bis Mazy iy Oli end Ley Nai Laiz Nai Aihel lid Naits "
 
- Fimelesnoa Biibell Hellsijma qls Gleetz 
+ Fimelesnoa Biibell Hellsijmaqls Gleetz 
 
  Olistea Filistea Oli , Kulu Nai Felia Bai !
 
-" Leste Phier Tlli Leste Phier Tlli Bis Holsiana Galm! Elize Cloud Vell Nai Holt "
+" Leste Phier Tlli Leste Phier Tlli Bis Holsiana Galm ! Elize Cloud Vell Nai Holt "
 
  Bis iy Goriis Viizy Olis Feida Viizy Mii Phina Colista Eivena Ofa Bis Lazz 
 
@@ -36,7 +36,7 @@ Iequim Lef Fea Edal , Mill Floul end Floul ...
 " Kulu Nai Rait Heiliam Tuklt "
 " Lend Cloud Skeem Skeem Skeem Skeem Skeem Skeem Skeem Gete Liumd ?"
 
- Fimelesnoa Biibell Hellsijma qls Gleetz
+ Fimelesnoa Biibell Hellsijmaqls Gleetz 
 
  Olistea Filistea Oli , Kulu Nai Felia Bai !
 

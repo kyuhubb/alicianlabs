@@ -150,4 +150,54 @@ japanese_lyrics= `おはよう！
 
 君の世界へ`;
 
+revised_english=`Good morning !
+
+I change my clothes and take a deep breath, when i open the door
+
+The beginning bell just rings
+
+Reminiscing, Prospection,
+
+All my feelings were sleeping in the palm of my hand
+
+By magical words, leave on each trip
+Clap our hands
+
+Turning the hands of clock, The sun dancing, 
+The moon singing, and the thoughts born
+
+Then long tale starts again..
+
+Everywhere you can go
+
+Until you find quite end of the world
+
+Go through time to time
+
+"Alice, Alice, Alice"
+
+Go over there
+
+Clap our hands
+
+Turning the hands of clock, The sun dancing,
+
+The moon singing, and the thoughts born
+
+Then long long tale starts again..
+
+Everywhere you can go
+
+Until you find quite end of the world
+
+Go through time to time
+
+"Alice, Alice, Alice"
+
+Everywhere you can go
+
+Go through time to time
+
+"Alice, Alice, Alice"`
+
 importJs("../script/process");

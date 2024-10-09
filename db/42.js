@@ -31,7 +31,7 @@ text += `§042
 
  Gout Zia iy Nai Anisia Elize Ied Kesef Ail Ord Iedsit Lqll
 
- Ole Laila end ol Yien Bijiik occia , Hiele Seiren Klar Eams Wei
+ Olm Laila end ol Yien Bijiik occia , Hiele Seiren Klar Eamis Wei
 
  Od Eiphinr Meehellm weil Sikidorkle
 
@@ -45,7 +45,7 @@ text += `§042
 
  Elaind Zia iy Hyuserti imm Bale Taz
 
- Quim Tifijl Graid Afitaj Xia Fimoa
+ Quim Tifijl Graid Afitag Xia Fimoa
 
  Liqleea Harledid a Tigalm es Torjest Ail Imeila Olide Tiisa Velsiam
 
