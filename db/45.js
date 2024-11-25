@@ -1,69 +1,38 @@
 text += `§045
 
 
-Lackalatia Lackalatia
-
-Mii o Amadimel Phier Etuse
-
-Bis o Opsa Story ou Ani Veilatoriet
-
-Quondlea Vala a Alter, Fouzanoa
-
-Zeat Mols Aihel Pllia Ran
-
-Seia imm Brai ou Krey Daltu ob
-
-Likti Millarm "Hait"
-
-Elaind, Ollenes Kulu Nai
-
-Kirla folme Retuela Herz Foul
-
-Poet Nai Harmiy Ra
-
-Craill o Mariotoriet!
-
-Womphil Stei end Floul a Floul a Floul
-
-Ledi Niims il Oli Sarga
-
-Mage ou Ranyabellt Enaq Haols Leste
-
-Brait a Ait
-
-Womphil Stei end Floul a Floul a Floul
-
-Poutie Ell Mols Ani Fete
-
-Ord Disverry ou Ranyabellt,
-
-Schaff Daltu Blawl
-
-Poetolt Imiyl a Feikeed al Piisa Oli,
-
-Haymate Yien Rustie imm Farp Tittri
-
-Priisa "Deank"
-
-en Seia ol Yleea
-
-Luan il Loqcka
-
-Lackalatia Lackalatia
-
-Allss end ol Dizzle Phier Furtla
-
-Bis o Opsa Story ou Ani Veilatoriet
-
-Foul imm Bis Oli, Ixlatla neu Keqtoxa,
-
-Zeit ou Amie ol Mols Aihel
-
-Seia imm Brai ou Krey Daltu ob
-
-Sween Lef Frey Olis
-
-Sween Lef Frey Olis
+ Lackalatia Lackalatia 
+ Mii o Amadimel Phier Etuse 
+ Bis o Opsa Story ou Ani Veilatoriet 
+ Quondlea Vala a Alter , Fouzanoa 
+ Zeat Mols Aihel Pllia Ran 
+ Seia imm Brai ou Krey Daltu ob 
+ Likti Millarm " Hait "
+ Elaind , Ollenes Kulu Nai 
+ Kirla folme Retuela Herz Foul 
+ Poet Nai Harmiy Ra 
+ Craill o Mariotoriet !
+ Womphil Stei end Floul a Floul a Floul 
+ Ledi Niims il Oli Sarga 
+ Mage ou Ranyabellt Enaq Haols Leste 
+ Brait a Ait 
+ Womphil Stei end Floul a Floul a Floul 
+ Poutie Ell Mols Ani Fete 
+ Ord Disverry ou Ranyabellt ,
+ Schaff Daltu Blawl 
+ Poetolt Imiyl a Feikeed al Piisa Oli ,
+ Haymate Yien Rustie imm Farp Tittri 
+ Priisa " Deank "
+ en Seia ol Yleea 
+ Luan il Loqcka 
+ Lackalatia Lackalatia 
+ Allss end ol Dizzle Phier Furtla 
+ Bis o Opsa Story ou Ani Veilatoriet 
+ Foul imm Bis Oli, Ixlatla neu Keqtoxa ,
+ Zeit ou Amie ol Mols Aihel 
+ Seia imm Brai ou Krey Daltu ob 
+ Sween Lef Frey Olis 
+ Sween Lef Frey Olis 
 
 
 

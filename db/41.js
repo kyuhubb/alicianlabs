@@ -1,31 +1,19 @@
 text += `§041
 
 
-Haol end Klattle, Verry a Colls a Kampiela end ol Razzle 
-
+Haol end Klattle , Verry a Colls a Kampiela end ol Razzle 
 Yutul Mii Joul imisier folme Sail 
-
 end Loog end Loog Via ol Frait 
-
-“Foly, Mii Harmiy Xia o Nai Loqcka Opl ! Ticca Quente Elie Akasya”
-
-“Lishe Viin Laqqarte Crai ol Pillusi Saryarte”
-
+“ Foly , Mii Harmiy Xia o Nai Loqcka Opl ! Ticca Quente Elie Akasya ”
+“ Lishe Viin Laqqarte Crai ol Pillusi Saryarte ”
 Olim Millant Ark Sphiep oh Farla Pllia Stirant 
-
-Finz Oli ou Graid, Piala Ween 
-
+Finz Oli ou Graid , Piala Ween 
 Gout Shelista Baly Arth Diiza Crai 
-
 Foas end Yien Garve Xia o ivata end Kulu nai Rorm Chronicle Leim o nai 
-
-Minelia ou Trane, Spitia, Poet nai Olte 
-
+Minelia ou Trane , Spitia , Poet nai Olte 
 Hiele Story Baly Aihel Diiza Crai 
-
 a Protia end Elie Taz Aisia Finz 
-
-“Phier Poet nai Dist Lootaria”
+“ Phier Poet nai Dist Lootaria ”
 
 
 

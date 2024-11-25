@@ -244,5 +244,15 @@ function getC(credit){
 		link = "pages/song.html?q=The_eve_of_epokhe";
 		return "The eve of epokhe";
 		break
+
+		case '050':
+		link = "pages/song.html?q=eat_you_up";
+		return "EAT YOU UP";
+		break
+
+		case '051':
+		link = "pages/song.html?q=no_parents";
+		return "NO PARENTS";
+		break
 	}
 }

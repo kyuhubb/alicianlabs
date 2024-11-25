@@ -6,7 +6,7 @@ text += `§034
  Mii Seiren Aria end 
  Ramiy Sar Hyuz 
  a Lazz u Rave Haol 
- end a Mii Harie Gete Fete Colls, Zote 
+ end a Mii Harie Gete Fete Colls , Zote 
  Ah Mii Plau Luina Pray 
  Drone ou Gete end 
  Ledi Mii Elie a Finient 
@@ -31,10 +31,10 @@ text += `§034
  Cliid end Aola Cliid end 
  Razzle Syena la la la la 
 
- Mii, Pray ou Liin end Herz end
+ Mii , Pray ou Liin end Herz end
  a Pray ou Liin Herz end
- " Ah Leste, Hal !"
- Razzle Cup, Olis Soup, Ani Phantasm 
+ " Ah Leste , Hal !"
+ Razzle Cup , Olis Soup , Ani Phantasm 
  end Mii Harmiy Luina end Luina 
 
  Herz Aihel Bis Koll end 

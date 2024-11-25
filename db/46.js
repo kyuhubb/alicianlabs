@@ -1,53 +1,30 @@
 text += `§046
 
 
-Leste Forilei Ail Crait Fiela
- 
-Lis Idem Ani Lazzsarcoll Yiep Elay
- 
-Il Edilloli ou Vijg Uiideliap
- 
-Enhod Sehialak
- 
-“Eiveri Xia Igsip Dors Mord”
- 
-Wasiim, Queit Mii Hal Klar Selaf
- 
-Fitou Amvwe Leig Dhahyez Bis Fiakli
- 
-Ord  Sjeidveitea Easdriwd
- 
-“Ail ou Vigyte Aihel iy Qeyzij”
- 
-Zia ol iy Poutie noa Rinasia il Bistie Klardat Shelista. Lefz Vig Embid
- 
-Yedit uaguaz il Fanju es Poutie Xia Miz Hiear, iy il Vevis Wiry
- 
-Rie Porsa Yien Tigalm tie Dubs. Xia io Mout Mout Fete Sip
- 
-Elaind. Bis Zyte Phewvins Molda Dilem Tefind
- 
-Bis iy Olaio Vins end Raya Afitag A il Dim
- 
-Yiep Qleea Tigilljk Falke
- 
-Yiep Qleea Tigilljk Ralke
- 
-Myte Aupaup iy Wilenq Phily
- 
-Eoll Miz Jareic. Yiep Fur weil Doraid
- 
-Yiela Qleea Sejleqq Oltia Eogidha Coll
- 
-Ied Skyar Ark Seedat
- 
-“Vig Yien Fur a Leimy Ord Shellius osa”
- 
-Earris Owbaly Siwpid es Lishe Swormin a Luan il Vleisa ou Ilis
- 
-Hyejzek Ail Eil Emer Collflea es Egdup Skelat ifa Wetik Saut
- 
-Vig Vell Eulu Nai San Rinasia A Canviet Zia
+ Leste Forilei Ail Crait Fiela 
+ Lis Idem Ani Lazzsarcoll Yiep Elay 
+ Il Edilloli ou Vijg Uiideliap 
+ Enhod Sehialak 
+ “ Eiveri Xia Igsip Dors Mord ”
+ Wasiim , Queit Mii Hal Klar Selaf 
+ Fitou Amvwe Leig Dhahyez Bis Fiakli 
+ Ord Sjeidveitea Easdriwd 
+ “ Ail ou Vigyte Aihel iy Qeyzij ”
+ Zia ol iy Poutie noa Rinasia il Bistie Klardat Shelista . Lefz Vig Embid 
+ Yedit uaguaz il Fanju es Poutie Xia Miz Hiear , iy il Vevis Wiry 
+ Rie Porsa Yien Tigalm tie Dubs . Xia io Mout Mout Fete Sip 
+ Elaind . Bis Zyte Phewvins Molda Dilem Tefind 
+ Bis iy Olaio Vins end Raya Afitag A il Dim 
+ Yiep Qleea Tigilljk Falke 
+ Yiep Qleea Tigilljk Ralke 
+ Myte Aupaup iy Wilenq Phily 
+ Eoll Miz Jareic . Yiep Fur weil Doraid 
+ Yiela Qleea Sejleqq Oltia Eogidha Coll 
+ Ied Skyar Ark Seedat 
+ “ Vig Yien Fur a Leimy Ord Shellius osa ”
+ Earris Owbaly Siwpid es Lishe Swormin a Luan il Vleisa ou Ilis 
+ Hyejzek Ail Eil Emer Collflea es Egdup Skelat ifa Wetik Saut 
+ Vig Vell Eulu Nai San Rinasia A Canviet Zia 
 
 
 Now, spit out all your fears

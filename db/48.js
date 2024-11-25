@@ -1,25 +1,25 @@
 text += `§048
 
 
-Vleid Fol, Twiik Seia end Swiina Piala Syarfi
-Shelista Sielat Mii Baly
+ Vleid Fol, Twiik Seia end Swiina Piala Syarfi 
+ Shelista Sielat Mii Baly 
 
-Aa Wilen Flutenia Ailent 
-Oldia Taz, ol Faet Cloud end Digleema imm Brai ou Sharla Daltu
+ Aa Wilen Flutenia Ailent 
+ Oldia Taz , ol Faet Cloud end Digleema imm Brai ou Sharla Daltu 
 
-La la la...
+ La la la...
 
-Lim Minelia Tim
-Myte Ran Seeia Laiz
+ Lim Minelia Tim 
+ Myte Ran Seeia Laiz 
 
-Quim Cloud Arsh Haolm Dilem Mejkl Coll end Heritili Twiik Sinq
+ Quim Cloud Arsh Haolm Dilem Mejkl Coll end Heritili Twiik Sinq 
 
-Mei Filteil Colt Niims,
-Cloudyte Ipsi Eclap Ail
+ Mei Filteil Colt Niims ,
+ Cloudyte Ipsi Eclap Ail 
 
-Leste Lans lid Ougowd Tarn end ol Rien Olfeis
+ Leste Lans lid Ougowd Tarn end ol Rien Olfeis 
 
-Mii Hols Ra Bis Moud Nouche Ignai Finz
+ Mii Hols Ra Bis Moud Nouche Ignai Finz 
 
 
 

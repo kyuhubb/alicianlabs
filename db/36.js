@@ -9,7 +9,7 @@ text += `§036
  Staps Termz end Ran Hise 
  HamilSlay !
  HamilSlay !
- Selaf.
+ Selaf .
 
  ah Aolu Story end Bale ?
  a Story Olis Flute 
@@ -22,16 +22,16 @@ text += `§036
  Selaf.
 
  Fiiani end Swiina Mail 
- Umm.. Mii Bell Gout Mii Nai Bell 
+ Umm .. Mii Bell Gout Mii Nai Bell 
  Lans Sail, Seiren Minelia 
- Umm.. Mii Bell end... 
+ Umm .. Mii Bell end ... 
  Ahh Mii Faress end Mii Faress ?
  ah Mii Wiina end 
  Karna Mii Nache Sar Crai 
  Oul Quest 
  a Quest 
  Quest 
- Quest..
+ Quest ..
 
 
 

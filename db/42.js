@@ -1,55 +1,31 @@
 text += `§042
 
 
- Bertene Alfloul Zia iy Shellte Apnesia Baly
-
- Xia iy Kysei Tepistl Wei
-
- Zia iy Hyuserti imm Bale Taz
-
- Poutie Uwoles Klar lid Qufit , ol Madie il Ewoldorain Pazz
-
+ Bertene Alfloul Zia iy Shellte Apnesia Baly 
+ Xia iy Kysei Tepistl Wei 
+ Zia iy Hyuserti imm Bale Taz 
+ Poutie Uwoles Klar lid Qufit , ol Madie il Ewoldorain Pazz 
  Tifijl Xia end Yien Stea ifa Enbrikardi Fas ,
-
  iy Zyte Tvulei ...?
-
- Zia ou Qleea Womphil Anys Biziq Foul
-
- Feipiot Jeari weig iy Uerisaqui sip
-
- Gout Wasiim Blaide iy Olistea Dimea
-
- Luird ol iy Ail Mout a Pllardki
-
- Fartvinst iy Waz Harris end Molda ol Forklei
-
- Alaind Zia iy Hyuserti imm Bale Taz
-
- Rie ▓▓▓▓ ol Idem a Verse rie ▓▓▓▓ ol Idem a Verse osa
-
- Zill ol Yien Freikes il Leifemea Paphileeta Aniiz
-
- Gout Zia iy Nai Anisia Elize Ied Kesef Ail Ord Iedsit Lqll
-
- Olm Laila end ol Yien Bijiik occia , Hiele Seiren Klar Eamis Wei
-
- Od Eiphinr Meehellm weil Sikidorkle
-
- Fittou Selar weig Ignai Aihel Amdlu
-
- Gout Wasiim Blaide iy Olistea dimea
-
- Wuind ol iy Ail Mout a Pllardki
-
- Fartvinst iy Waz Harris end Molda ol Forklei
-
- Elaind Zia iy Hyuserti imm Bale Taz
-
- Quim Tifijl Graid Afitag Xia Fimoa
-
- Liqleea Harledid a Tigalm es Torjest Ail Imeila Olide Tiisa Velsiam
-
- Xia iy Elize Zyte Herz iy Porsa Friud
+ Zia ou Qleea Womphil Anys Biziq Foul 
+ Feipiot Jeari weig iy Uerisaqui sip 
+ Gout Wasiim Blaide iy Olistea Dimea 
+ Luird ol iy Ail Mout a Pllardki 
+ Fartvinst iy Waz Harris end Molda ol Forklei 
+ Alaind Zia iy Hyuserti imm Bale Taz 
+ Rie ▓▓▓▓ ol Idem a Verse rie ▓▓▓▓ ol Idem a Verse osa 
+ Zill ol Yien Freikes il Leifemea Paphileeta Aniiz 
+ Gout Zia iy Nai Anisia Elize Ied Kesef Ail Ord Iedsit Lqll 
+ Olm Laila end ol Yien Bijiik occia , Hiele Seiren Klar Eamis Wei 
+ Od Eiphinr Meehellm weil Sikidorkle 
+ Fittou Selar weig Ignai Aihel Amdlu 
+ Gout Wasiim Blaide iy Olistea dimea 
+ Wuind ol iy Ail Mout a Pllardki 
+ Fartvinst iy Waz Harris end Molda ol Forklei 
+ Elaind Zia iy Hyuserti imm Bale Taz 
+ Quim Tifijl Graid Afitag Xia Fimoa 
+ Liqleea Harledid a Tigalm es Torjest Ail Imeila Olide Tiisa Velsiam 
+ Xia iy Elize Zyte Herz iy Porsa Friud 
 
 
 The people around me are always correct
