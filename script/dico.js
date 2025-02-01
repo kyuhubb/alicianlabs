@@ -728,7 +728,7 @@ let dico = {
 "ritto": "airborne (放つ)",
 "roof": "hole (穴)",
 "roofialaita": "tunnel (トンネル)",
-"rook": "bid farewell (別れる)",
+"rook": "to separate (別れる/ほどく)",
 "rowt": "hell/hades (奈落)",
 "rustie": "reflect (映る)",
 "sai": "morning (朝)",
