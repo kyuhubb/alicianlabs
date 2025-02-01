@@ -535,6 +535,7 @@ let dico = {
 "loot": " for long (ずっと)",
 "lootaria": "forever/eternal (ずっと/永遠)",
 "lophala": "fish (魚)",
+"lophalas": "fishes (魚たち)",
 "loqcka": "distant (遠い)",
 "luan": "to go (行く/込む)",
 "luina":　"to yearn (焦がす)",

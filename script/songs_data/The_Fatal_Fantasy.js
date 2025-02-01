@@ -1,5 +1,5 @@
 title = "The Fatal Fantasy";
-original_lyrics = ` Brai ou Epiejla Ewol Madiendlea 
+original_lyrics = ` Brai ou Epkejla Ewol Madiendlea 
 
  Pieto Lophalas Floul a Cate Thuivili 
 

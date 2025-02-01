@@ -1,7 +1,7 @@
 text += `§025
 
 
- Brai ou Epiejla Ewol Madiendlea 
+ Brai ou Epkejla Ewol Madiendlea 
 
  Pieto Lophalas Floul a Cate Thuivili 
 
