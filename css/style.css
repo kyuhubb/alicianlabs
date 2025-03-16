@@ -8,6 +8,11 @@
   src: url("../fonts/NovaFlat-Regular.ttf");
 }
 
+@font-face {
+	font-family: "magicschool";
+	src: url("../fonts/MagicSchoolOne.ttf")
+}
+
 table{
 	width: 100%;
 	text-align: center;
@@ -17,6 +22,12 @@ table{
 
 table tr:nth-child(even){
 	background: #251F25;
+}
+
+#maintitle{
+	font-family: magicschool;
+	font-size: 6em;
+	background-color: transparent;
 }
 
 #dicoEntries{
@@ -65,9 +76,14 @@ body{
 	background-position-y: 100%;
 }
 
+.nowallpaper{
+	background : #111;
+}
+
 h1{
 	margin: 0;
 	padding: 12px;
+	font-size: 2.2em;
 	background-color: #323;
 }
 
@@ -79,6 +95,39 @@ p{
 	width: 80vw;
 	text-align: center;
 	margin: auto;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+}
+
+.album .bubble-div{
+	width: 20vw!important;
+	height: 20vw!important;
+}
+
+#albumcover1{
+	background: url('../img/cover1.jpg') no-repeat;
+	background-size: 100%;
+}
+
+#albumcover2{
+	background: url('../img/cover2.jpg') no-repeat;
+	background-size: 100%;
+}
+
+#albumcover3{
+	background: url('../img/cover3.jpg') no-repeat;
+	background-size: 100%;
+}
+
+#albumcover4{
+	background: url('../img/cover4.jpg') no-repeat;
+	background-size: 100%;
+}
+
+#albumcover5{
+	background: url('../img/glass.png') no-repeat;
+	background-size: 100%;
 }
 
 .letter-box{
@@ -114,6 +163,7 @@ p{
 	user-select: none;
 	cursor: pointer;
 	transition: background-color 0.25s;
+	font-size: 1.2em;
 }
 
 .bubble-div:hover{
@@ -133,5 +183,10 @@ th, td{
 		background-size: 125%;
 		background-position-x: 50%;
 		background-position-y: 100%;
+	}
+
+	.album .bubble-div{
+		width: 40vw!important;
+		height: 40vw!important;
 	}
 }
