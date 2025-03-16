@@ -189,4 +189,8 @@ th, td{
 		width: 40vw!important;
 		height: 40vw!important;
 	}
+
+	#maintitle{
+		font-size: 5em;
+	}
 }
