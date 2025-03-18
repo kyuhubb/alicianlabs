@@ -870,7 +870,7 @@ let dico = {
 "toriesta": "witch (魔女)",
 "torjest": "kill (殺す)",
 "torke": "to worship (礼拝)",
-"toubi": "to Open (eyes) (開ける)",
+"toubi": "to Open (開ける)",
 "toup": "type (種類)",
 "toys": "toys (おもちゃ)",
 "traluki": "to be buried (埋もれる)",
