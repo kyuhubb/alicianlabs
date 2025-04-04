@@ -236,7 +236,7 @@ function getC(credit){
 		break
 
 		case '048':
-		link = "pages/song.html?q=Kuusou_modernism";
+		link = "pages/song.html?q=kuusou_modernism";
 		return "Kuusou modernism";
 		break
 
