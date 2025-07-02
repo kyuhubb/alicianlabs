@@ -933,6 +933,7 @@ let dico = {
 "vivi": "born (燈る)",
 "vleisa": "distance (彼方)",
 "volp": "ghosts (お化け)",
+"walhalla": "Valhalla (ヴァルハラ)",
 "waltisala": "hymn (讃美歌)",
 "way": "answer (答え)",
 "waz": "mere (ただ)",
