@@ -7,7 +7,7 @@ original_lyrics = ` Crai Feila Bis a Well
 
  Mii Awter Crai end Oulayz Vitui 
 
- Oulays Zote Oulayz Minai 
+ Oulayz Zote Oulayz Minai 
 
  Crai Briss Gout 
 
