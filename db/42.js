@@ -18,7 +18,7 @@ text += `§042
  Gout Zia iy Nai Anisia Elize Ied Kesef Ail Ord Iedsit Lqll 
  Olm Laila end ol Yien Bijiik occia , Hiele Seiren Klar Eamis Wei 
  Od Eiphinr Meehellm weil Sikidorkle 
- Fittou Selar weig Ignai Aihel Amdlu 
+ Fittou Selaf weig Ignai Aihel Amdlu 
  Gout Wasiim Blaide iy Olistea dimea 
  Wuind ol iy Ail Mout a Pllardki 
  Fartvinst iy Waz Harris end Molda ol Forklei 

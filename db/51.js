@@ -1,7 +1,52 @@
 text += `§051
 
 
- The sparkling sky is torn apart, and your house of cards has crumbled
+Diaggu Ark Gisses Crait Heund Pllis Joul Razzle
+
+Hes Pilek Crai Eem Ra Yien Hemp Ord Klardat Feikk?
+
+Loosya Hewvews Liiquipiy Aola Feim Wranbed Yien Fims Hegglait
+
+Leste Fijdatt ou Flute Fidpiam Idifylou Goss Crait Finz Leyd
+
+Sej Yiep Fress o bai
+
+Sej Lef Ame Blinzlait
+
+Heik Derisou Ription? Bisiy Yekisend Zillol Sion
+
+Sej Yiep Idial Challen Meila
+
+Sej Eugidha Lazzversepray
+
+Ejderi Crait Ryksion, Leida Uoisi Lef Xsion
+
+Elize Zill Nai Nache Sis Poet Nai Ealail Rowt Koll
+
+Zyte Molda ol Yien Ukkt Ambkait
+
+Queit Leida Sigik Ran Bai
+
+Vinsijvend Dilem Ola Filsoua Ait a Garve a Skeem Kpul Zillyte Herz
+
+Forklei Glevi Yujplimes
+
+Brai ou Epkejla iy Piala Lef Pisklaim
+
+Imeila a Crai Leidiq Piisik a Syeilla Nai Etuse
+
+Uluxy a Kelasiad Elaisic!
+
+Lishe Goss Poetolt Ikeam Shay il Midiou Ba Ba Bav
+Lishe Goss Poetolt Ikeam Shay il Midiou Ba Ba Bav
+Lishe Goss Poetolt Ikeam Shay il Midiou Ba Ba Bav
+Lishe Goss Poetolt Ikeam Shay il Midiou Ba Ba Bav
+
+Hols Ra Aolu Miz Lieb Yutull imm Crait Ijfzeit
+
+
+
+The sparkling sky is torn apart, and your house of cards has crumbled
 
 Being tied to a filthy bunny, how does that feel, huh?
 

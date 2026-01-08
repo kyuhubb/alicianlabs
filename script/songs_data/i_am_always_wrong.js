@@ -31,7 +31,7 @@ original_lyrics = ` Bertene Alfloul Zia iy Shellte Apnesia Baly
 
  Od Eiphinr Meehellm weil Sikidorkle 
 
- Fittou Selar weig Ignai Aihel Amdlu 
+ Fittou Selaf weig Ignai Aihel Amdlu 
 
  Gout Wasiim Blaide iy Olistea dimea 
 
@@ -43,7 +43,7 @@ original_lyrics = ` Bertene Alfloul Zia iy Shellte Apnesia Baly
 
  Quim Tifijl Graid Afitag Xia Fimoa 
 
- Liqleea Harledid a Tigalm es Torjest Ail
+ Liqleea Harledid a Tigalm es Torjest Ail 
 
  Imeila Olide Tiisa Velsiam 
 
