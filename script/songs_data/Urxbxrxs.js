@@ -53,7 +53,7 @@ original_lyrics = ` Ullem ou Epkejla Lef Dizzlet ,
  Heivi Ijti Awdrom Shelimlait Iequim
  Lef Folsiagol end ol Yien Esc Helgiek 
 
- Xia iy Ofelnti end Apeilf Yullk tie Fete Miis Vell Yien Womphil 
+ Xia iy Ofelnti end Apeilf Yullk tie Fete Miis Vell Yien Womphil 
 
  Poetklar Myte Herz Yien Torjest ,
  Mii Fiesmes Pillusi Ail Ienadip 

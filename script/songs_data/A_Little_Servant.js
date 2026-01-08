@@ -6,7 +6,7 @@ original_lyrics = ` Hellmeila Hellmeila Iar imm Miis Mols
  Jiddle Ceeka Meisem Clooshela 
  Klautie end ol Dizzle 
 
- Hellmeila Hellmeila Ah Salie Proula 
+ Hellmeila Hellmeila Ah Salie Proula 
 
  Foul Xia o Siala end Dilem no Amie 
  a Siala Blem lar 

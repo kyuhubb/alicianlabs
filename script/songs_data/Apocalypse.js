@@ -32,10 +32,10 @@ original_lyrics = ` Selate In ou Lane Lar Alger ou Iila
  Brait Allss ou Xia Piero 
  Haou Crai La Crai 
 
- es hai di es towai di es crai ni es grei ni lau 
- es towai di es crai ni es grei ni lau 
- es towai di es crai ni es grei ni lau 
- es crai ni es grei ni lau 
+ es hai di es towai di es crai ni es grei ni lau 
+ es towai di es crai ni es grei ni lau 
+ es towai di es crai ni es grei ni lau 
+ es crai ni es grei ni lau 
 
  Ranya Crai Ran Alan 
  end Karna Mii Dist end Dist Mii 

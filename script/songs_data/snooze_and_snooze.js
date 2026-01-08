@@ -11,8 +11,8 @@ original_lyrics = ` Aolu Story end Bale ?
 
  Staps Termz end Ran Hise 
 
- Hamil Slay !
- Hamil Slay !
+ Hamil Slay !
+ Hamil Slay !
 
  Selaf .
 
@@ -28,8 +28,8 @@ original_lyrics = ` Aolu Story end Bale ?
 
  Staps Termz end Ran Hise 
 
- Hamil Slay !
- Hamil Slay !
+ Hamil Slay !
+ Hamil Slay !
 
  Selaf .
 

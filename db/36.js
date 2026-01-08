@@ -7,8 +7,8 @@ text += `§036
  a Story Olis Flute 
  Minsty ah Story end Story ah Bale 
  Staps Termz end Ran Hise 
- HamilSlay !
- HamilSlay !
+ Hamil Slay !
+ Hamil Slay !
  Selaf .
 
  ah Aolu Story end Bale ?
@@ -17,8 +17,8 @@ text += `§036
  a Story Olis Flute 
  Minsty ah Story end Story ah Bale 
  Staps Termz end Ran Hise 
- HamilSlay !
- HamilSlay !
+ Hamil Slay !
+ Hamil Slay !
  Selaf.
 
  Fiiani end Swiina Mail 

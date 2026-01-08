@@ -2,7 +2,7 @@ title = "i am always wrong";
 original_lyrics = ` Bertene Alfloul Zia iy Shellte Apnesia Baly 
  Xia iy Kysei Tepistl Wei 
 
- Zia iy Hyuserti imm Bale Taz 
+ Zia iy Hyuserti imm Bale Taz 
 
  Poutie Uwoles Klar lid Qufit , ol Madie il Ewoldorain Pazz 
 
@@ -19,7 +19,7 @@ original_lyrics = ` Bertene Alfloul Zia iy Shellte Apnesia Baly
 
  Fartvinst iy Waz Harris end Molda ol Forklei 
 
- Elaind Zia iy Hyuserti imm Bale Taz 
+ Elaind Zia iy Hyuserti imm Bale Taz 
 
  Rie ▓▓▓▓ ol Idem a Verse rie ▓▓▓▓ ol Idem a Verse osa 
 
@@ -39,7 +39,7 @@ original_lyrics = ` Bertene Alfloul Zia iy Shellte Apnesia Baly
 
  Fartvinst iy Waz Harris end Molda ol Forklei 
 
- Elaind Zia iy Hyuserti imm Bale Taz 
+ Elaind Zia iy Hyuserti imm Bale Taz 
 
  Quim Tifijl Graid Afitag Xia Fimoa 
 
