@@ -6,7 +6,7 @@ original_lyrics = ` Lackalatia Lackalatia
  Bis o Opsa Story ou Ani Veilatoriet 
 
  Quondlea Vala a Alter , Fouzanoa 
- Zeat Mols Aihel Pllia Ran 
+ Zeit Mols Aihel Pllia Ran 
 
  Seia imm Brai ou Krey Daltu ob 
 

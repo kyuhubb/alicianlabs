@@ -31,7 +31,7 @@ table tr:nth-child(even){
 }
 
 #dicoEntries{
-	font-size: 1.4em;
+	font-size: 1em;
 }
 
 .alician{
@@ -164,10 +164,6 @@ p{
 	cursor: pointer;
 	transition: background-color 0.25s;
 	font-size: 1.2em;
-}
-
-.bubble-div:hover{
-	background-color: #151515;
 }
 
 th, td{
