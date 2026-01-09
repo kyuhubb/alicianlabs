@@ -1,7 +1,7 @@
 title = "▷ NEW GAME";
 original_lyrics = ` Hols Yien Weilla Kelasiad lait en Tikk a Feid ieq Tvulei ou Syeilla 
 
-Iequim Lef Fea Edal , Mill Floul end Floul ...
+ Iequim Lef Fea Edal , Mill Floul end Floul ...
 
 " Bis Mazy iy Oli end Ley Nai Laiz Nai Aihel lid Naits folme Bisoli "
 
@@ -23,7 +23,7 @@ Iequim Lef Fea Edal , Mill Floul end Floul ...
 
  Entie Arch Feilihna en Skima Roofialakta , Polt Pray ou Olizes Selfe a Geeg 
 
- Ah , Voi Kulu Heilim Bis osa Ord Doraid Elaind Harmiy Xia Bis iy Ignai Lanai
+ Ah , Voi Kulu Heilim Bis osa Ord Doraid Elaind Harmiy Xia Bis iy Ignai Lanai 
 
 " Kulu Nai Rait Heiliam Tuklt "
 " Lend Cloud Skeem Gete Liumd ?"

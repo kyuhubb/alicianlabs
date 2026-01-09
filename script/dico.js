@@ -313,6 +313,7 @@ let dico = {
 "fiola": "flower (花)",
 "fiolaza": "bouquet (花束)",
 "fimeles": "expression (表情)",
+"fimelesnoa": "expressionless (無表情)",
 "fise": "to rub (擦る)",
 "flasche": "vial/Flask (小瓶)",
 "flea": "people/things (もの)",

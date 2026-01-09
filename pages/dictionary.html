@@ -21,12 +21,7 @@
 	document.write("<table id='dicoEntries'>");
 	for(i=1; i < entry.length; i++){
 		document.write("<tr><td>"+entry[i]+"</td>");
-		document.write("<td>"+dico[entry[i]]+"</td>");
-		i++
-		if(i < entry.length){
-			document.write("<td>"+entry[i]+"</td>");
-			document.write("<td>"+dico[entry[i]]+"</td></tr>");
-		}
+		document.write("<td>"+dico[entry[i]]+"</td></tr>");
 	}
 		document.write("</table>");
 </script>
