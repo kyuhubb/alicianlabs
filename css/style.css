@@ -105,6 +105,10 @@ p{
 	height: 20vw!important;
 }
 
+.bubble-div:hover{
+	background-color: #151515;
+}
+
 #albumcover1{
 	background: url('../img/cover1.jpg') no-repeat;
 	background-size: 100%;
