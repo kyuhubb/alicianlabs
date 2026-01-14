@@ -1,17 +1,17 @@
 title = "killed by angel";
-original_lyrics = ` Leste Forilei Ail Crait Fiela 
+original_lyrics = ` Leste Forklei Ail Crait Fiela 
 
- Lis Idem Ani Lazzsarcoll Yiep Elay 
+ Lins Idem Ani Lazzsarcoll Yiep Elay 
 
  Il Edilloli ou Vijg Uiideliap 
 
  Enhod Sehialak 
 
- “ Eiveri Xia Igsip Dors Mord ”
+ “ Eiveri Xia Igsip Dors Mord ”
 
  Wasiim , Queit Mii Hal Klar Selaf 
 
- Fitou Amvwe Leig Dhahyez Bis Fiakli 
+ Fittou Amvwe Leig Dhahyez Bis Fiakli 
 
  Ord Sjeidveitea Easdriwd 
 
@@ -19,23 +19,23 @@ original_lyrics = ` Leste Forilei Ail Crait Fiela
 
  Zia ol iy Poutie noa Rinasia il Bistie Klardat Shelista . Lefz Vig Embid
 
- Yedit uaguaz il Fanju es Poutie Xia Miz Hiear , iy il Vevis Wiry
+ Yedit Uaguaz il Fanju es Poutie Xia Miz Hiear , iy il Vevis Wiry
 
- Rie Porsa Yien Tigalm tie Dubs . Xia io Mout Mout Fete Sip 
+ Rie Porsa Yien Tigalm tie Dubs . Xia iy Mout Mout Fete Sip 
 
  Elaind . Bis Zyte Phewvins Molda Dilem Tefind 
 
- Bis iy Olaio Vins end Raya Afitag A il Dim 
+ Bis iy Olaio Vins end Raya Afitag Ail Dim 
 
  Yiep Qleea Tigilljk Falke 
 
- Yiep Qleea Tigilljk Ralke 
+ Yiep Qleea Tigilljk Falke 
 
  Myte Aupaup iy Wilenq Phily 
 
- Eoll Miz Jareic . Yiep Fur weil Doraid 
+ Koll Miz Jareic . Yiep Fur weil Doraid 
 
- Yiela Qleea Sejleqq Oltia Eogidha Coll 
+ Yiela Qleea Sejleqq Oltia Eugidha Coll 
 
  Ied Skyar Ark Seedat 
 
@@ -43,9 +43,9 @@ original_lyrics = ` Leste Forilei Ail Crait Fiela
 
  Earris Owbaly Siwpid es Lishe Swormin a Luan il Vleisa ou Ilis 
 
- Hyejzek Ail Eil Emer Collflea es Egdup Skelat ifa Wetik Saut 
+ Hyejzek Ail Emer Collflea es Egdup Skelat ifa Wetik Saut 
 
- Vig Vell Eulu Nai San Rinasia A Canviet Zia `;
+ Vig Vell Kulu Nai San Rinasia A Canviet Zia `;
 english_lyrics = `Now, spit out all your fears
 
 Let’s become one 
