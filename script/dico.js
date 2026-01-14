@@ -1023,7 +1023,7 @@ let dico = {
 "wond": "wound (傷)",
 "wondist": "wound (傷)",
 "wondidda": "pain (痛い)",
-"xianya": "think (思う)",
+"xianya": "Those people (それら/あいつら)",
 "xlleidie": "ghost (幽霊)",
 "yedit": "To throw out all contents (ぶちまける)",
 "yeft": "to appear/to materialize (現れる)",
