@@ -29,7 +29,7 @@ original_lyrics = ` Hyerisq Elfalasia
 
  Ajlff Liqleea Hegss Xia ifa Zyte Aniche pius 
 
- E clat E clat E clat E clat E clat 
+ E clat E clat E clat E clat E clat 
 
  Hyerisq Zill Karna sii 
 
@@ -60,7 +60,7 @@ original_lyrics = ` Hyerisq Elfalasia
 
  Elize Laiz weig Sinai Elay , Lishe Nache a Geeg Lootaria 
 
- Loo taria Loo taria Loo taria Loo taria Loo taria Loo taria `;
+ Loo taria Loo taria Loo taria Loo taria Loo taria Loo taria `;
 english_lyrics = `Hey, welcome
 
 You've finally awakened from your reality
