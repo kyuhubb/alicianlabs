@@ -15,7 +15,7 @@ original_lyrics = ` Speixam end Gleetz imm Arla Pazz
 
  Lishe Poet Rook 
 
- Via ou Loast Elza end Apeilf Yullk 
+ Via ou Loast Elza end Apeilf Yullk 
 
  Aisia Mia Koll Solfe Ley 
 
