@@ -2,22 +2,22 @@ title = "Kuusou modernism";
 original_lyrics = ` Vleid Fol , Twiik Seia end Swiina Piala Syarfi 
  Shelista Sielat Mii Baly 
 
- Aa Wilen Flutenia Ailent 
- Oldia Taz , ol Faet Cloud end Digleema imm Brai ou Sharla Daltu 
+ Aa Wilenq Flutenoa Ailent 
+ Oltia Taz , ol Rait Cloud end Digleema imm Brai ou Sharla Daltu 
 
  La la la ...
 
- Lim Minelia Tim
- Myte Ran Seeia Laiz
+ Lim Minelia Tim 
+ Myte Ran Seeia Laiz 
 
- Quim Cloud Arsh Haolm Dilem Mejkl Coll end Heritili Twiik Sinq 
+ Quim Cloud Arch Haolm Dilem Mejkl Coll end Heritili Twiik Sinq 
 
- Mei Filteil Colt Niims ,
+ Mei Filte il Colt Niims ,
  Cloudyte Ipsi Eclap Ail 
 
- Leste Lans lid Ougowd Tarn end ol Rien Olfeis 
+ Leste Lans lid Ougowd Tarn end ol Yien Olfeis 
 
- Mii Hols Ra Bis Moud Nouche Ignai Finz `;
+ Mii Hols Ra Bis Mout Nouche Ignai Finz `;
 english_lyrics = `
 
 
