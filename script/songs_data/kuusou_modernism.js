@@ -7,7 +7,7 @@ original_lyrics = ` Vleid Fol , Twiik Seia end Swiina Piala Syarfi
 
  La la la ...
 
- Lim Minelia Tim 
+ Lim Minelia Tim, 
  Myte Ran Seeia Laiz 
 
  Quim Cloud Arch Haolm Dilem Mejkl Coll end Heritili Twiik Sinq 

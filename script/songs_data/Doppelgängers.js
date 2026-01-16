@@ -17,7 +17,7 @@ original_lyrics = ` Invilstaqls Yeft Poetolt
 
  Faltnoa Molda Qufit end ol Yien Abid a Geeg Xia Fiel Poetolt ol Qleea Gehnd 
 
- “ Oudiq Nai Hexixa Wondidda Elize Vig iy Nai Loosya Enebis Wetijia ”
+ “ Oudiq Nai Hexixa Wondidda Elize Vig iy Nai Loosya Enebis Wetijka ”
 
  Weil Rowt end iy Zill ol Yien Obeylaes Fiqsyndelait , Zill ol Idem Pefidqls Eave 
 
