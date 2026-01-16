@@ -76,6 +76,7 @@ let dico = {
 "awdrom": "order/Command (命令)",
 "awlsijvikt": "plotted out (筋書き通り)",
 "awlst": "ready (準備する)",
+"awte": "to encounter (出逢う)",
 "awter": "to meet (会う/逢う)",
 "bai": "already/Not anymore (もう)",
 "bale": "How (どう)",
