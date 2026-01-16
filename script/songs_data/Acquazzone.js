@@ -72,7 +72,7 @@ original_lyrics = ` Retuel Sai end Sai ou Mono
  end Crai Fal Bis ah Mane 
 
  a Gete Sartain Lar Ail `;
-english_lyrics = `奇异之昼 无色之昼
+japanese_lyrics = `奇异之昼 无色之昼
 
 被搁置的历史（记忆）
 
@@ -145,7 +145,7 @@ english_lyrics = `奇异之昼 无色之昼
 而你也会重返于此
 
 向天地万象迎来新黎明`;
-japanese_lyrics= `
+english_lyrics= `
 
 
 

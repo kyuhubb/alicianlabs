@@ -7,7 +7,7 @@ original_lyrics = ` Yiela Egdrea ! Mei Wiziliq Arlistielim ou Eadalam
 
  Bistie Rowt iy Editav lar Zill , Awlsijvikt Lenekle sii 
 
- Wilenq Disigalm
+ Wilenq Disigalm 
 
  Sindipqls end Wendiq Jered ou Enebis , Seiren Waltisala es Dikzim Lushegand
 
