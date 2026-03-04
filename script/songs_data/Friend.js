@@ -10,21 +10,17 @@ original_lyrics = ` Crai Feila Bis a Well
  Oulayz Zote Oulayz Minai 
 
  Crai Briss Gout 
-
  Gout end Gout 
 
  Mii a Crai end Crai end Crai end Crai 
-
  Lootaria Saray 
 
- end Crai Toriesta 
+" end Crai Toriesta "
 
  Foul Mii Crai Awter Lar Bis Elay 
 
  Foul Mii Foul Mii Foul Mii 
-
  Crai Lar Elay Awter 
-
  Foul Mii 
 
  Olis Crai Ailes Mii 
@@ -35,16 +31,14 @@ original_lyrics = ` Crai Feila Bis a Well
 
  Mii Awter Crai end Oulayz Vitui 
 
- Oulayz Zote ( a Drone Swiina ) 
-
+ Oulayz Zote 
+ " a Drone Swiina "
  Oulayz Minai 
 
  Mill Briss Gout 
-
  Gout end Gout 
 
  Mii a Crai end Crai end Crai end Crai 
-
  Lootaria Saray end Mii Lili ah 
 
  Saray `;
@@ -97,55 +91,41 @@ english_lyrics = `
 
 
 `;
-japanese_lyrics= `难为你忍耐了这么久。
+japanese_lyrics= `よく、我慢したね。
 
-孤身一人待在这昏暗的世界里。
+独りぼっち、この暗い世界で。
 
-不过已经没事了
+でももう大丈夫。
 
-遇到你真是太好了。
+君に会えて良かった。
 
-诸多季节 诸多夜空
+たくさんの季節と夜空が
 
-在你身边
+君の傍を過ぎ去ったけれど、
 
-不断飞逝
+私は君の友達。
 
-但对我来说 你啊
+"トリエスタ。"
 
-一直是朋友
+"きっと私は君に会うために、ここへやってきた。"
 
-"（魔女）Toriesta。"
+"私は、君に会うために‥"
 
-"我一定是为了与你相见才会来到这里。"
+君は私とよく似てる。
 
-"我一定"
+ずっと暗い世界で、独りぼっちだった。
 
-"是为了与你相见"
+でももう大丈夫。
 
-"我一定…"
+君と逢えて良かった。
 
-你和我非常相似。
+"ずっと孤独に包まれていた"
+たくさんの季節と夜空が
 
-孤身一人待在这昏暗的世界里。
+私たちの傍を過ぎ去ったけれど、
 
-不过已经没事了
+君はずっと、私の大切な
 
-遇到你真是太好了。
-
-诸多季节 （我一直孤身一人）
-
-诸多夜空
-
-在我们身边
-
-不断飞逝
-
-但对我来说 你啊
-
-一直是朋友 我珍贵的——
-
-朋友。`;
+友達。`;
 
 importJs("../script/process");
-chinese = true;

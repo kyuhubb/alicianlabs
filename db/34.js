@@ -24,12 +24,6 @@ text += `§034
 
  la la la Cliid end Aola Cliid end 
  Razzle Syena la la Minelu a Visc Sole 
- Cliid end Aola Cliid end 
- Razzle Syena la la Minelu a Visc Sole 
- Cliid end Aola Cliid end 
- Razzle Syena la la Minelu a Visc Sole 
- Cliid end Aola Cliid end 
- Razzle Syena la la la la 
 
  Mii , Pray ou Liin end Herz end
  a Pray ou Liin Herz end
@@ -42,6 +36,42 @@ text += `§034
  Aola end Baly 
  end Crai Fal Bis ah Mane 
  a Gete Sartain Lar Ail 
+
+
+
+奇矯な朝　色のない朝
+置き去りにされた歴史
+囁いたアリアは　風に乗って行ってしまった
+
+滲んだ手のひらの種
+これが二つ目の運命　躯　季節
+ああ　懐かしい音がした
+だからもう一度孤独へ
+地平線まで連れていっておくれ
+いつかまた　故郷で会えるように
+
+心はまだここにある　私はずっとここにいる
+今だって　いつだって
+そして君も　ここへ戻ってくる
+天地万象へ新たなる黎明を
+
+奇矯の朝　色のない朝
+置き去りにされた言葉
+囁いたアリアは　もう、
+
+降り注げ
+神明なる星座を砕いて　殊勝なる魂を宿せ
+
+私　無限の雨音　心臓の音
+
+"さぁ、返事をしておくれ！"
+欠けたコップ　こぼれたスープファンタズムがひとつ
+とても懐かしい気がしたよ
+
+心はまだここにある　私はずっとここにいる
+今だって　いつだって
+そして君も　ここへ戻ってくる
+天地万象へ新たなる黎明を
 
 
 

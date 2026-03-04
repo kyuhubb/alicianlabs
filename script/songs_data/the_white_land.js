@@ -1,10 +1,8 @@
 title = "the white land";
 original_lyrics = ` Whiil Sarga end Whiil a Peak 
-
  Zel Nai Aihel end Zel Aihel 
 
  Whiil Hyuz end Whiil Minelia 
-
  la la Mii Aola Drone a Mii Aola Drone 
 
  Ah Bis end Story " A "
@@ -18,29 +16,23 @@ original_lyrics = ` Whiil Sarga end Whiil a Peak
  end Koll Zel Nai Aihel Shelista 
 
  Mii Bell Amy ou Trane end Saut ou Saray 
-
  Reiz ou Di end 
-
  Cees Fei ou Minelia o World Tree 
 
  Ail end Ail Bell Mii Nai Dist Aola end ...
 
  ah Whiil Sarga end Whiil a Peak 
-
  Zel Nai Aihel end Zel Aihel 
 
  Whiil Hyuz end Whiil Minelia 
-
  la la Mii Aola Drone a Mii Aola Drone 
 
  Ola end Story 
 
  Luan Razzle Compass end 
-
  Disverry ou Crai Rance Bis 
 
  Ani Retuel e Atherty Verry 
-
  Razzle Eist a Loast Pazz 
 
  ah Leste Bis Nacc Ola end Story " A "
@@ -51,27 +43,7 @@ original_lyrics = ` Whiil Sarga end Whiil a Peak
 
  Ranya Hellm a Esc Laiz ou Noll 
 
- Leste Alista Story a end 
-
- ah Whiil Sarga end Whill a Peak 
-
- Zel Nai Aihel end Zel Aihel 
-
- Whiil Hyuz end Whiil Minelia 
-
- la la Mii Aola Drone a Mii Aola Drone 
-
- Ola end Story 
-
- Luan Razzle Compass end 
-
- Disverry ou Crai Rance Bis 
-
- Ani Retuel e Atherty Verry 
-
- Razzle Eist a Loast Pazz 
-
- ah Leste Bis Nacc Ola end Story " A "`;
+ Leste Alista Story a end `;
 english_lyrics = `
 
 
@@ -147,80 +119,42 @@ english_lyrics = `
 
 
 `;
-japanese_lyrics= `白色天空 白色鞋履
+japanese_lyrics= `白い空　白い靴　誰も居ない　誰も居ない
 
-别无一人 别无一人
+白い風　白い月　独りぼっち　独りぼっち
 
-白色的风 白色的月
+あぁ　ここは真っ白なストーリー　"Ａ"
 
-孤身一人 孤身一人
+旅人は最果てにて眠る
 
-啊 这里是空白的故事“A”
+とても長い時間　終わりのない時間
 
-旅人在尽头沉睡
+ほころんだキャンバス　まどろんだ懐中時計
 
-睡过漫长时光 睡过无尽时光
+まだこの世界には　何もない
 
-开绽的帆布 停滞的怀表
+涙の温度　友達の声　二つの足跡　凍える月のわ　聳える大樹
 
-这个世界里 尚空无一物
+全部覚えている　忘れるはずなんてない　だから‥
 
-泪水的温度 朋友的声音
+白い空　白い靴　誰も居ない　誰も居ない
 
-两人的脚印
+白い風　白い月　独りぼっち　独りぼっち
 
-冻结的月轮 高耸的巨树
+そしてここは　真っ白なストーリー
 
-我全都记得 绝无法忘怀…
+廻る羅針盤と　フィールドに残された君の結果
 
-白色天空 白色鞋履
+偏った進化論がひとつ　無限の部屋の扉を破れ
 
-别无一人 别无一人
+ほら　こここそが　真っ白なストーリー　"Ａ"
 
-白色的风 白色的月
+呼応　透明な魔物とがらんどう　でも　不安なんてここにはない
 
-孤身一人 孤身一人
+悪い記憶に惑わされるな
 
-而这里是 空白的故事
+人の夢を覗かないで　人の夢を取り上げないで
 
-打转的指南针
-
-你的结界（魔法）尚余此
-
-以一偏颇的进化论
-
-打破无限房间之门
-
-看吧 这里才是空白的故事 “A”
-
-透明的魔物与空宇呼应 但此处并无不安
-
-勿被邪恶的记忆所迷惑
-
-不要窥探夺取别人的梦
-
-来吧 将故事延续
-
-白色天空 白色鞋履
-
-别无一人 别无一人
-
-白色的风 白色的月
-
-孤身一人 孤身一人
-
-而这里是 空白的故事
-
-打转的指南针
-
-你的结界（魔法）尚余此
-
-以一偏颇的进化论
-
-打破无限房间之门
-
-看吧 这里才是空白的故事 “A”
-`;
+さぁ、物語の続きを`;
 
 importJs("../script/process");
-chinese = true;
