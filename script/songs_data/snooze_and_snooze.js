@@ -3,16 +3,9 @@ original_lyrics = ` Aolu Story end Bale ?
 
  a Story Olis Flute 
 
- Aolu Story end Bale ?
-
- a Story Olis Flute 
-
  Minsty ah Story end Story ah Bale 
 
- Staps Termz end Ran Hise 
-
- Hamil Slay !
- Hamil Slay !
+ Staps Termz end Ran Hise Hamil Slay !
 
  Selaf .
 
@@ -20,16 +13,9 @@ original_lyrics = ` Aolu Story end Bale ?
 
  a Story Olis Flute 
 
- Aolu Story end Bale ?
-
- a Story Olis Flute 
-
  Minsty ah Story end Story ah Bale 
 
- Staps Termz end Ran Hise 
-
- Hamil Slay !
- Hamil Slay !
+ Staps Termz end Ran Hise Hamil Slay !
 
  Selaf .
 
@@ -49,11 +35,7 @@ original_lyrics = ` Aolu Story end Bale ?
 
  Oul Quest 
 
- a Quest 
-
- Quest 
-
- Quest ...`;
+ a Quest ...`;
 english_lyrics = `
 
 
@@ -107,61 +89,42 @@ english_lyrics = `
 
 
 `;
-japanese_lyrics= `今天的故事是什么样？
+japanese_lyrics= `今日の物語は　どんな物語だった？
 
-是个欢快无比的故事
+楽しい　楽しい　物語
 
-今天的故事是什么样？
+明日の物語は　どんな物語
 
-是个欢快无比的故事
+時計のたたいて　目をこすって　おはよう！
 
-明天的故事会是什么样的故事
+世界。
 
-拍拍时钟 揉揉眼睛
+今日の物語は　どんな物語だった？
 
-早上好！
-早上好！
+楽しい　楽しい　物語
 
-（现实）世界。
+明日の物語は　どんな物語
 
-今天的故事是什么样？
+時計のたたいて　目をこすって　おはよう！
 
-是个欢快无比的故事
+世界。
 
-今天的故事是什么样？
+深呼吸をして　服を着替えて
 
-是个欢快无比的故事
+うーん覚えているような‥　覚えていないような‥
 
-明天的故事会是什么样的故事
+踊る太陽に　歌う月
 
-拍拍时钟 揉揉眼睛
+うーん　見たことあるような‥
 
-早上好！
-早上好！
+まぁ、いいかな？　まぁ、いいのかな
 
-（现实）世界。
+眠いね　眠りたいね
 
-做个深呼吸 换上衣服
+でも、また一緒に遊んでね
 
-唔…我似乎记得…又似乎不记得…
+また、大きな冒険へ
 
-起舞的太阳，歌唱的月儿
-
-唔…我似乎见过…
-
-哎呀，无所谓吧？无所谓了吧？
-
-好想睡哦
-
-不过，下次再一起玩吧
-
-再度踏上宏大的冒险
-
-踏上冒险
-
-冒险
-
-冒险…`;
+冒険へ‥`;
 
 importJs("../script/process");
-chinese = true;
