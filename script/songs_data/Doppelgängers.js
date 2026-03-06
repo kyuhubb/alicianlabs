@@ -17,7 +17,7 @@ original_lyrics = ` Invilstaqls Yeft Poetolt
 
  Faltnoa Molda Qufit end ol Yien Abid a Geeg Xia Fiel Poetolt ol Qleea Gehnd 
 
- “ Oudiq Nai Hexixa Wondidda Elize Vig iy Nai Loosya Enebis Wetijia ”
+ “ Oudiq Nai Hexixa Wondidda Elize Vig iy Nai Loosya Enebis Wetijka ”
 
  Weil Rowt end iy Zill ol Yien Obeylaes Fiqsyndelait , Zill ol Idem Pefidqls Eave 
 
@@ -34,7 +34,42 @@ original_lyrics = ` Invilstaqls Yeft Poetolt
  Syeilla ol Sigik Xia Ran folme Elliflea end ol Luan a Eala 
 
  Verry ol Hesserie iy Jedleqnoa `;
-english_lyrics = ``;
+english_lyrics = ` Doppelgangers appeared,
+
+and stabbed me again and again
+
+It's time for the bad child to go to sleep
+
+"To love someone, we must first love ourselves"
+
+If there is no malice in our minds, can we have sweet dreams?
+
+"In this way, we love and support each other"
+
+Paradise in my mind's eye, so burnt out that I can’t even remember it anymore
+
+"You're a broken-headed monster, so I don't care how much I crush you"
+
+The "innocence" constantly beaten up, caused the brain circuit to short out until unfixable
+
+"You're not a human anymore, so I don't even have to guess at your pain"
+
+In Hell where we were indiscriminately damned, we became monsters
+
+Go away, go away, go away, go away, go away, go away, go away, go away
+
+Go away, go away, go away, go away, go away, go away, go away, go away
+
+( go away )
+
+If we're going to fall apart like this
+
+For what purpose were we born, and for what purpose will we live on?
+
+The angel turned the eyes away from the falling creatures
+
+Words of salvation are of no avail
+`;
 japanese_lyrics= `ドッペルゲンガーが現れて
 
 それらは　ぼくを何度も突き刺した

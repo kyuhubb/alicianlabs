@@ -11,7 +11,7 @@ original_lyrics = ` Hyerisq Elfalasia
 
  Olzy Nai Awter Lujes Pawqui Melp Saray 
 
- dam Phim Lejed Bis Dinb il Twiik Salff Naits 
+ Iyldam Phim Lejed Bis Dinb il Twiik Salff Naits 
 
  Elied Zia Endekta , Lootaria en Lootaria 
 
@@ -49,7 +49,7 @@ original_lyrics = ` Hyerisq Elfalasia
 
  Poutie Qleea Tarlia , Liqleea Aid Xia Ipsi a Polt sii 
 
- Tolltit Veit Sarp iy Julledak Peris Lqll 
+ Tolltit Veit Sarp iy Julledak Peris Lqll 
 
  Elemie Vell Verse Heriim Imeila Diallif , Karna il Olaio Bipli 
 

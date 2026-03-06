@@ -15,7 +15,7 @@ original_lyrics = ` Klatsia Esp ou Ticcla , Esp ou Lans
 
  Baly Crai Ied Fal il Niims Crai Nadi Olis 
 
- Fiea Zote , Ame Taz Graid
+ Fiea Zote , Ame Taz Graid 
 
  Mii Emphi Miis Nai Prifiel Ofa Arsia ou Ellif 
 
@@ -34,7 +34,7 @@ original_lyrics = ` Klatsia Esp ou Ticcla , Esp ou Lans
  Xia Mane Vell Dialoss 
 
  
- Fiea Zote , Ame Taz Graid
+ Fiea Zote , Ame Taz Graid 
 
  Mii Emphi Miis Nai Prifiel Ofa Arsia ou Ellif 
 
